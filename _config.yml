@@ -16,6 +16,10 @@ email: "lluisgalbany@gmail.com"
 
 navigation_header:
   Home: /
+  About: https://github.com/amusing-muse/about.md
+  People: https://github.com/amusing-muse/people.md
+  Characterization: https://github.com/amusing-muse/characterization.md
+  Publications: https://github.com/amusing-muse/publications.md
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/lgalbany
