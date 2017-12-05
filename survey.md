@@ -1,7 +1,5 @@
----
-title: Overall aims, strategy and policies, proposals
-permalink: /survey/
----
+
+# Overall aims, strategy and policies, proposals
 
 ## The AMUSING survey strategy
 
