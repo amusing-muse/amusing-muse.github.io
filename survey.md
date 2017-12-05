@@ -1,6 +1,4 @@
 
-## Survey strategy
-
 Make use of non-optimal weather at Paranal to obtain a large amount of time on MUSE to observe SN host galaxies.
 
 All observing constraints are set to (almost) lowest constraint. This means: ANY seeing; THN conditions; BRIGHT Moon; and we have objects across full RA and dec range meaning that pointing restrictions can be overcome. In practice, many objects will be observed in <1.2” seeing, plus dark/grey time, CLR conditions etc.
