@@ -1,11 +1,9 @@
-# [Alembic](https://alembic.darn.es/)
+# [AMUSING](https://amusing-muse.github.io)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
-⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
+![Screenshot](front.jpg)
 
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
-
-[Tweet it](https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes) | [Tip me $5 💸](https://www.paypal.me/daviddarnes/5usd)
+[Tweet it](https://twitter.com/intent/tweet/?url=https://amusing-muse.github.io&text=The%20AMUSING%20Survey&via=lgalbany) 
 
 ## Contents
 - [About](#about)
