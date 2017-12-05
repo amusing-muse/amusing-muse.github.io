@@ -1,8 +1,8 @@
 
 
-The All-weather MUse Supernova Integral field Nearby Galaxies (AMUSING) survey
 
-![Logo](https://raw.githubusercontent.com/amusing-muse/amusing-muse.github.io/blob/master/front.jpg  "Logo Title Text 1")
+
+![Logo](/front.jpg)
 
 On the left there are a few links to the documentation for The AMUSING survey. In the main these documents are open to comments for anyone within the collaboration, and then the PIs will edit the documents.  SOME NICE TEXT HERE..
 
