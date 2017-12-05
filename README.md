@@ -1,7 +1,7 @@
 # [AMUSING](https://amusing-muse.github.io)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
-![Screenshot](front.jpg)
+![Screenshot](fassets/default-social-image.jpg)
 
 [Tweet it](https://twitter.com/intent/tweet/?url=https://amusing-muse.github.io&text=The%20AMUSING%20Survey&via=lgalbany) 
 
