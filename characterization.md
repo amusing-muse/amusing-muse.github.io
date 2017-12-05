@@ -1,3 +1,3 @@
 
-## [Characterization Table](https://github.com/amusing-muse/Characterization/blob/master/Sample_char/amusing_sample_char.csv)
+[Link](https://github.com/amusing-muse/Characterization/blob/master/Sample_char/amusing_sample_char.csv) to the characterization table in github
 
