@@ -4,7 +4,6 @@ title: Data reduction/processing/storage notes
 permalink: /reduction/
 ---
 
-
 Reduced data can be downloaded from [here](http://www.sc.eso.org/~janderso/AMUSING/)
 
 Note, there is also a tar file: AMUSING_sample_char.tar that unpacks into various directories, but importantly has a full characterisation of the galaxies thus far observed (up to the end of P96), available here: http://www.sc.eso.org/~janderso/AMUSING/AMUSING_sample_char.tar

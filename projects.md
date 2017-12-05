@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AMUSING science projects
+title: Science projects
 permalink: /projects/
 ---
 
