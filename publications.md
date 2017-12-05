@@ -34,7 +34,7 @@ Title: Emission line associated with a AGN driven jet in NGC232
 PI: C. Cobá  
 Abstract: We describe the serendipity discovery of an optical jet driven by a central AGN in the galaxy NGC232, that extend across several kpc almost perpendicular to the galactic plany of the galaxy. The analysis of the gas kinematics and emission line ratios indicate that most probably the optical jet is ionized by a mixture of direct ionization by the AGN and shocks due to the lateral expansion of the jet across a dense medium. To our knowledge only two of these optical jets have been observed before (3C120 and 3C273), what place this object among one of the few laboratories to study this kind of processes.  
 Data usage: P95  
-Status: Accepted, https://arxiv.org/abs/1711.02785
+Status: [Accepted](https://arxiv.org/abs/1711.02785)
 
 ### Project AM15
 Title: MUSE Reveals a Recent Merger in the Post-starburst Host Galaxy of the TDE ASASSN-14li  
