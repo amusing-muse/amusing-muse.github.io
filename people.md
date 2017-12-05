@@ -8,7 +8,7 @@ permalink: /people/
 
 ### CoIs ands semesters on which a coI
 
-* [Chris Ashall](mailto:c.ashall@2013.ljmu.ac.uk‎), _ARI-LJMU_; `P95`
+* [__Chris Ashall__](mailto:c.ashall@2013.ljmu.ac.uk‎), _ARI-LJMU_; `P95`
 * [__Erik Aquino__](mailto:eaquino@astro.unam.mx), _U. Nacional Autonoma de Mexico_; `P95, P96, P97, P98, P100`
 * [__Melina Bersten__](mailto:mbersten@fcaglp.unlp.edu.ar), _U. La Plata_; `P100`
 * [__J. Casado__](mailto:gurzmar@gmail.com)

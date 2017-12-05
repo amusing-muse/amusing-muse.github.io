@@ -15,26 +15,26 @@ Constrain SN progenitors through observations of their host environments w.r.t. 
 Refine the use of SN as probes of other processes in the Universe.
 Constrain galaxy evolution, SF processes, dynamics, study extragalactic stellar populations.
 
-### [P95 - 095.D-0091(B)]()
+### [P95 - 095.D-0091(B)](docs/amusing_P95.pdf)
 Proposal: CSP SNIa hosts
 
-### [P96 - 096.D-0296(A)]()
+### [P96 - 096.D-0296(A)](docs/amusing_P96.pdf)
 Proposal: ASAS-SN hosts (Mainly type Ias, some type IIs)
 
-### [P97 - 097.D-0408(A)]()
+### [P97 - 097.D-0408(A)](docs/amusing_P97.pdf)
 Proposal: SNe (Ias and CC) which have high-res spectral observations
 
-### [P98 - 098.D-0115(A)]()
+### [P98 - 098.D-0115(A)](docs/amusing_P98.pdf)
 SweetSpot SNIa hosts
 
-### [P99 - 099.D-0022(A)]()
+### [P99 - 099.D-0022(A)](docs/amusing_P99.pdf)
 SweetSpot SNIa hosts
 
-### [P100 - 100.D-0341(A)]()			
+### [P100 - 100.D-0341(A)](docs/amusing_P100.pdf)			
 late-time nebular spectroscopy and environments of CCSNe
 
 
-## Survey policies
+## [Survey policies](docs/AMUSING_survey_policies.pdf)
 
 conflict of interests; paper authorship; etc
 
