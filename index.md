@@ -1,6 +1,10 @@
 ![Logo](front.jpg)
 
-Welcome to the AMUSING survey webpage! Below there are a few links to the documentation of The AMUSING survey. These documents are open to comments for anyone within the collaboration, and then the PIs will edit the documents. 
+Welcome to the AMUSING survey webpage! 
+
+AMUSING...
+
+Below are links to all the documentation for The AMUSING survey. In the main these documents are open to comments for anyone within the collaboration, and then the PIs will edit the documents. 
 
 ## People
 
