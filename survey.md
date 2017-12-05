@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Overall aims, strategy and policies, proposals
 permalink: /survey/
 ---
