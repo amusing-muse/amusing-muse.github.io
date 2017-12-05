@@ -9,8 +9,3 @@ github_username:  amusing-muse
 exclude:
   - Gemfile
   - Gemfile.lock
-
- header_pages: 
-  - people.html  
-  - publications.html 
-  - characterization.html 
