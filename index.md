@@ -1,8 +1,18 @@
----
-#
-# You don't need to edit this file, it's empty on purpose.
-# Edit minima's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
----
+
+
+
+
+![Logo](front.jpg)
+
+On the left there are a few links to the documentation for The AMUSING survey. In the main these documents are open to comments for anyone within the collaboration, and then the PIs will edit the documents.  SOME NICE TEXT HERE..
+
+
+## The AMUSING Survey
+
+
+## Characterization Table
+
+- [Link](https://github.com/amusing-muse/Characterization/blob/master/Sample_char/amusing_sample_char.csv)
+
+## Publications
+
