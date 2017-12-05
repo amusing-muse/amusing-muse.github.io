@@ -1,2 +1,30 @@
 theme: minima
-layout: default
+
+defaults:
+  -
+    values:
+      image: "front.jpg" # Default image for sharing
+
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "The AMUSING survey" # Site name or title, also used in jekyll-seo-tag
+logo: "front.jpg" # Site logo, also used in jekyll-seo-tag
+description: "The All-weather MUse Supernova Integral field Nearby Galaxies" # Site description and default description, also used in jekyll-seo-tag
+url: "https://amusing-muse.github.io" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/amusing-muse/amusing-muse.github.io"
+email: "lluisgalbany@gmail.com"
+
+navigation_header:
+  Home: /
+  About: https://github.com/amusing-muse/about.md
+  People: https://github.com/amusing-muse/people.md
+  Characterization: https://github.com/amusing-muse/characterization.md
+  Publications: https://github.com/amusing-muse/publications.md
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/lgalbany
+  GitHub: https://github.com/lgalbany
+
+sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
+  Twitter: "#1DA1F2"
+  Email: "lluisgalbany at gmail dot com"
