@@ -1,3 +1,10 @@
+---
+layout: page
+title: People
+permalink: /people/
+---
+
+
 CoIs list, emails and affiliations, semesters on which a coI
 
 Joe Anderson (PI); janderso@eso.org; ESO Chile; P95, P96, P97, P98, P99, P100, P101
