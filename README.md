@@ -12,7 +12,7 @@ Below are links to all our documentation. In the main these documents are open t
 
 ## [Data spreadsheet, reduction, processing and status](https://docs.google.com/spreadsheets/d/1-C4_Oi0lehvoxGQwsaD3v_Pp6kt3xE2HUm3x5K3pdOQ/edit#gid=0)
 
-## [Data reduction, processing note. Data/data products management](https://docs.google.com/document/d/1JjUmmP942b_hjlyS4ROvxrWV7cf80U2P1myDX7oxjx4/edit)
+## [Data reduction, processing note. Data/data products management](reduction.md)
 
 ## [AMUSING Publications](publications.md)
 

@@ -3,6 +3,7 @@ layout: page
 title: People
 permalink: /people/
 ---
+
 * [__Joe Anderson__](mailto:janderso@eso.org) (PI), _ESO Chile_; `P95, P96, P97, P98, P99, P100, P101`
 * [__Lluis Galbany__](mailto:lluisgalbany@gmail.com) (PI), _U. Pittsburgh_; `P95, P96, P97, P98, P99, P100, P101`
 
