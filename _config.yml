@@ -12,6 +12,6 @@ exclude:
   - Gemfile.lock
 
 header_pages:
- - people.md
- - Characterization.md
- - publications.md
+ - people.html
+ - Characterization.html
+ - publications.html
