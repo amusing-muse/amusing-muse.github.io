@@ -14,11 +14,11 @@ Below are links to all our documentation. In the main these documents are open t
 
 ## [Data reduction, processing note. Data/data products management](reduction.md)
 
-## [AMUSING Publications](publications.md)
+## [Publications](publications.md)
 
-## [AMUSING science projects](projects.md)
+## [Science projects](projects.md)
 
-## [AMUSING ideas](ideas.md)
+## [Ideas/Notes](ideas.md)
 
 ## [MUSE links](muse.dm)
   
@@ -26,7 +26,7 @@ Below are links to all our documentation. In the main these documents are open t
  
 ## [Collaboration whiteboard](https://docs.google.com/document/d/1JEt9ljtPOx73zWXnbt2phEjYK4LvhO8UjN-C8vIklGg/edit)
  
-## [AMUSING meetings](https://docs.google.com/document/d/1Y2N9tZAJVAfWwIM3moslywh68UhCg0JRp9q60zr61Ug/edit?usp=sharing)
+## [Meetings](https://docs.google.com/document/d/1Y2N9tZAJVAfWwIM3moslywh68UhCg0JRp9q60zr61Ug/edit?usp=sharing)
 
 ## [Characterization Table](https://github.com/amusing-muse/Characterization/blob/master/Sample_char/amusing_sample_char.csv)
 

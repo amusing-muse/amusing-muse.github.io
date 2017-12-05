@@ -1,6 +1,6 @@
 ---
 layout: page
-title: other MUSE projects
+title: Other MUSE projects
 permalink: /other/
 ---
 
