@@ -9,7 +9,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "The AMUSING survey" # Site name or title, also used in jekyll-seo-tag
 logo: "front.jpg" # Site logo, also used in jekyll-seo-tag
-description: "description of amusing" # Site description and default description, also used in jekyll-seo-tag
+description: "The All-weather MUse Supernova Integral field Nearby Galaxies" # Site description and default description, also used in jekyll-seo-tag
 url: "https://amusing-muse.github.io" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/amusing-muse/amusing-muse.github.io"
 email: "lluisgalbany@gmail.com"
