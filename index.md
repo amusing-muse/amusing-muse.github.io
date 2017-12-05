@@ -16,10 +16,3 @@ On the left there are a few links to the documentation for The AMUSING survey. I
 
 ## Publications
 
-
-
-
-
-
-## Support or Contact
-Want more information about the survey? Please, contact janderso at eso dot org or llgalbany at pitt dot edu.
