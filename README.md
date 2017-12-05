@@ -1,5 +1,3 @@
-## The AMUSING Survey
-
 ![Logo](front.jpg)
 
 ## People
