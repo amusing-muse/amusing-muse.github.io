@@ -4,7 +4,7 @@ Welcome to the AMUSING survey webpage!
 
 AMUSING uses the Multi Unit Spectroscopic Explorer (MUSE) instrument to observe galaxies that have been host to supernovae (SNe). The wide-field of view, high-spatial resolution and integral field capabilities of MUSE enables detailed studies of SN host galaxies. The AMUSING survey makes use of sub-optimal observing conditions at the Paranal observatory to obtain large samples of observations of SN host galaxies, with the aim of using such observations to further understand SN progenitors and explosions, while at the same time providing a large sample of galaxies that can be used for a variety of extra-galactic studies. 
 
-Below are links to all our documentation. In the main these documents are open to comments for anyone within the collaboration, and then the PIs will edit the documents. 
+On the header and below are links to all our documentation. In the main these documents are open to comments for anyone within the collaboration, and then the PIs will edit the documents. 
 
 ## [People](people.md)
 
@@ -16,15 +16,13 @@ Below are links to all our documentation. In the main these documents are open t
 
 ## [AMUSING Publications](publications.md)
 
-## [AMUSING science projects](https://docs.google.com/document/d/1AQG2tHh4OZWE55jGWG0YKDsl6SD8dWmBaVoQgQo2sag/edit?usp=sharing)
+## [AMUSING science projects](projects.md)
 
-## [AMUSING ideas](https://docs.google.com/document/d/1nN5eQ2aQCvSYEJQD3Von8VWh9Ub2PSrNrRsFaHfTIpg/edit?usp=sharing)
+## [AMUSING ideas](ideas.md)
 
-## [MUSE links](https://docs.google.com/document/d/1FLh0fIfMcmnVE-8-0LMpvrtqz2oSAxFWTf0FkBwlp3g/edit)
- 
-## [AMUSING github organization site](https://github.com/amusing-muse)
- 
-## [Other MUSE projects with related CoIs](https://docs.google.com/document/d/1VKJ_4hAK13dcmjisEprcrxKjCoLXOnHR77rB5auMgN0/edit)
+## [MUSE links](muse.dm)
+  
+## [Other MUSE projects with related CoIs](other.md)
  
 ## [Collaboration whiteboard](https://docs.google.com/document/d/1JEt9ljtPOx73zWXnbt2phEjYK4LvhO8UjN-C8vIklGg/edit)
  

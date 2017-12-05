@@ -16,15 +16,13 @@ Below are links to all our documentation. In the main these documents are open t
 
 ## [AMUSING Publications](publications.md)
 
-## [AMUSING science projects](https://docs.google.com/document/d/1AQG2tHh4OZWE55jGWG0YKDsl6SD8dWmBaVoQgQo2sag/edit?usp=sharing)
+## [AMUSING science projects](projects.md)
 
-## [AMUSING ideas](https://docs.google.com/document/d/1nN5eQ2aQCvSYEJQD3Von8VWh9Ub2PSrNrRsFaHfTIpg/edit?usp=sharing)
+## [AMUSING ideas](ideas.md)
 
-## [MUSE links](https://docs.google.com/document/d/1FLh0fIfMcmnVE-8-0LMpvrtqz2oSAxFWTf0FkBwlp3g/edit)
- 
-## [AMUSING github organization site](https://github.com/amusing-muse)
- 
-## [Other MUSE projects with related CoIs](https://docs.google.com/document/d/1VKJ_4hAK13dcmjisEprcrxKjCoLXOnHR77rB5auMgN0/edit)
+## [MUSE links](muse.dm)
+  
+## [Other MUSE projects with related CoIs](other.md)
  
 ## [Collaboration whiteboard](https://docs.google.com/document/d/1JEt9ljtPOx73zWXnbt2phEjYK4LvhO8UjN-C8vIklGg/edit)
  

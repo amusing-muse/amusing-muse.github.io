@@ -11,7 +11,7 @@ Note, there is also a tar file: AMUSING_sample_char.tar that unpacks into variou
 
 
 ### Reduction level 0:
-Thomas Kruelher is doing somewhat automated reductions using the MUSE pipeline. The aim is that we have baseline reductions in ‘real-time’ (meaning most likely several weeks) post observations. Most probably improvements can be made on these reductions with a more manual approach, together with new pipeline releases etc, however this will ensure that we do not create a bottleneck of raw data.
+Thomas Kruehler is doing somewhat automated reductions using the MUSE pipeline. The aim is that we have baseline reductions in ‘real-time’ (meaning most likely several weeks) post observations. Most probably improvements can be made on these reductions with a more manual approach, together with new pipeline releases etc, however this will ensure that we do not create a bottleneck of raw data.
 Reductions to be done on the ESO Vitacura MUSE machine.
 Data were re-reduced with some post-processing (w.r.t. sky-subtraction). Data now being reduced in Germany (still Thomas)
 Note, as of P96 a new sky-subtraction algorithm was available… Now being used for reduction
