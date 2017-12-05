@@ -1,3 +1,9 @@
+---
+layout: page
+title: Overall aims, strategy and policies, proposals
+---
+
+## The AMUSING survey strategy
 
 Make use of non-optimal weather at Paranal to obtain a large amount of time on MUSE to observe SN host galaxies.
 
