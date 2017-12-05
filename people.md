@@ -6,7 +6,7 @@ permalink: /people/
 * *Joe Anderson* (PI); 'janderso@eso.org'; _ESO Chile_; P95, P96, P97, P98, P99, P100, P101
 * Lluis Galbany (PI); lluisgalbany@gmail.com; U. Pittsburgh; P95, P96, P97, P98, P99, P100, P101
 
-## CoIs list, emails and affiliations, semesters on which a coI
+## CoIs email, affiliation, ands semesters on which a coI
 
 * Chris Ashall;  c.ashall@2013.ljmu.ac.uk‎; ARI, LJMU; P95
 * Erik Aquino; eaquino@astro.unam.mx; U. Nacional Autonoma de Mexico; P95, P96, P97, P98, P100
