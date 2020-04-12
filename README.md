@@ -8,6 +8,8 @@ Below are links to all our documentation. In the main these documents are open t
 
 ## [People](people.md)
 
+## [Sample](https://htmlpreview.github.io/?https://github.com/amusing-muse/Characterization/blob/master/centers.html)
+
 ## [Overall aims, strategy and policies, proposals](survey.md)
 
 ## [Data spreadsheet, reduction, processing and status](https://docs.google.com/spreadsheets/d/1-C4_Oi0lehvoxGQwsaD3v_Pp6kt3xE2HUm3x5K3pdOQ/edit#gid=0)
