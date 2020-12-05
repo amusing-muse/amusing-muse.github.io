@@ -10,12 +10,12 @@ permalink: /people/
 * [__Lluís Galbany__](mailto:lluisgalbany@gmail.com) (PI), _U. Granada_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
 * [__Thomas Kruehler__](mailto:t.kruehler@gmail.com), _(left Astro)_ ; `P95, P96, P97, P98, P99, P100`
 * [__Hanin Kuncarayakti__](mailto:hanin@das.uchile.cl), _U. Turku_ ; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
-* [__Sebastian Sanchez__](mailto:sfsanchez@astro.unam.mx), _U. Nacional Autonoma de Mexico_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
+* [__Sebastian Sanchez__](mailto:sfsanchez@astro.unam.mx), _UNAM_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
 * [__Joseph Lyman__](mailto:J.D.Lyman@warwick.ac.uk), _U. Warwick_; `P96, P97, P98, P99, P100, P101, P102, P103, P104`
 
-### CoIs ands semesters on which a coI
+### Co-Is and semesters on which they have been co-Is
 
-* [__Chris Ashall__](mailto:c.ashall@2013.ljmu.ac.uk‎), _ARI-LJMU_; `P95`
+* [__Chris Ashall__](mailto:c.ashall@2013.ljmu.ac.uk), _U. Hawai'i_; `P95`
 * [__Erik Aquino__](mailto:eaquino@astro.unam.mx), _U. Nacional Autonoma de Mexico_; `P95, P96, P97, P98, P100`
 * [__Melina Bersten__](mailto:mbersten@fcaglp.unlp.edu.ar), _U. La Plata_; `P100`
 * [__S. Bose__](mailto:), _---_; `P103`
