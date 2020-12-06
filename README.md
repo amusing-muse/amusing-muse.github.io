@@ -31,7 +31,7 @@ Below are links to all our documentation. In the main these documents are open t
 
 <!-- ??? -->
 
-## [MUSE links](muse.dm)
+## [MUSE links](muse.md)
  
 ## [Collaboration whiteboard](https://docs.google.com/document/d/1JEt9ljtPOx73zWXnbt2phEjYK4LvhO8UjN-C8vIklGg/edit)
  
