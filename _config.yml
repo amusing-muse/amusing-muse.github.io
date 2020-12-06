@@ -10,3 +10,11 @@ github_username:  amusing-muse
 exclude:
   - Gemfile
   - Gemfile.lock
+
+header_pages:
+  - survey.md
+  - reduction.md
+  - sample.md
+  - people.md
+  - publications.md
+  - projects.md
