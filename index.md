@@ -6,7 +6,7 @@ AMUSING uses the Multi Unit Spectroscopic Explorer (MUSE) instrument to observe 
 
 On the header there are links to all our documentation. In the main these documents are open to comments for anyone within the collaboration, and then the PIs will edit the documents. 
 
-<-- ## [People](people.md)
+<!-- ## [People](people.md)
 ## [Overall aims, strategy and policies, proposals](survey.md)
 ## [Data spreadsheet, reduction, processing and status](https://docs.google.com/spreadsheets/d/1-C4_Oi0lehvoxGQwsaD3v_Pp6kt3xE2HUm3x5K3pdOQ/edit#gid=0)
 ## [Data reduction, processing note. Data/data products management](reduction.md)
