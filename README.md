@@ -8,12 +8,9 @@ Below are links to all our documentation.
 
 ## [Survey](survey.md)
 
-## [Data reduction, processing note. Data/data products management](reduction.md)
+## [Data reduction](reduction.md)
 
-<!-- to join-->
-## [Sample](https://htmlpreview.github.io/?https://github.com/amusing-muse/Characterization/blob/master/centers.html)
-## [Other MUSE projects with related CoIs](other.md)
-## [Characterization Table](https://github.com/amusing-muse/Characterization/blob/master/Sample_char/amusing_sample_char.csv)
+## [Sample](sample.md)
 
 ## [People](people.md)
 
