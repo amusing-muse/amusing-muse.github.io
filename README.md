@@ -16,9 +16,8 @@ Below are links to all our documentation.
 
 ## [Publications](publications.md)
 
-<!-- to join-->
 ## [Science projects](projects.md)
-## [Ideas/Notes](ideas.md)
+
 
 
 
