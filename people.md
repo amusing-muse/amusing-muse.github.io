@@ -10,8 +10,8 @@ permalink: /people/
 * [__Lluís Galbany__](mailto:lluisgalbany@gmail.com) (PI), _U. Granada_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
 * [__Thomas Kruehler__](mailto:t.kruehler@gmail.com), _(left Astro)_ ; `P95, P96, P97, P98, P99, P100`
 * [__Hanin Kuncarayakti__](mailto:hanin@das.uchile.cl), _U. Turku_ ; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
-* [__Sebastian Sanchez__](mailto:sfsanchez@astro.unam.mx), _UNAM_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
 * [__Joseph Lyman__](mailto:J.D.Lyman@warwick.ac.uk), _U. Warwick_; `P96, P97, P98, P99, P100, P101, P102, P103, P104`
+* [__Sebastian Sanchez__](mailto:sfsanchez@astro.unam.mx), _UNAM_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
 
 ### Co-Is and semesters on which they have been co-Is
 
