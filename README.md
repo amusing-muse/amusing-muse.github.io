@@ -18,19 +18,6 @@ Below are links to all our documentation.
 
 ## [Science projects](projects.md)
 
-
-
-
-
-
-<!-- ??? -->
-
-## [MUSE links](muse.md)
+## [Other](other.md)
  
-## [Collaboration whiteboard](https://docs.google.com/document/d/1JEt9ljtPOx73zWXnbt2phEjYK4LvhO8UjN-C8vIklGg/edit)
- 
-## [Meetings](https://docs.google.com/document/d/1Y2N9tZAJVAfWwIM3moslywh68UhCg0JRp9q60zr61Ug/edit?usp=sharing)
-
-
-
 
