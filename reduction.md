@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data reduction/processing/storage notes
+title: Data reduction
 permalink: /reduction/
 ---
 
