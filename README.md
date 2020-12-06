@@ -8,9 +8,7 @@ Below are links to all our documentation.
 
 ## [Survey](survey.md)
 
-<!-- to join-->
 ## [Data reduction, processing note. Data/data products management](reduction.md)
-## [Data spreadsheet, reduction, processing and status](https://docs.google.com/spreadsheets/d/1-C4_Oi0lehvoxGQwsaD3v_Pp6kt3xE2HUm3x5K3pdOQ/edit#gid=0)
 
 <!-- to join-->
 ## [Sample](https://htmlpreview.github.io/?https://github.com/amusing-muse/Characterization/blob/master/centers.html)
