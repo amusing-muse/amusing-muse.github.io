@@ -25,3 +25,4 @@ Currently data stored in Germany. I will mirror this soon. Need to think about f
 Some OBs have been observed (16/04/15) and classified as ‘C’ due to clouds. However, the data look great, and hence we could already have multiple epochs of MUSE observations within this semester.
 This is the case in ~10 galaxies in P95. 2 in P96.
 
+## [Data spreadsheet, reduction, processing and status](https://docs.google.com/spreadsheets/d/1-C4_Oi0lehvoxGQwsaD3v_Pp6kt3xE2HUm3x5K3pdOQ/edit#gid=0)
