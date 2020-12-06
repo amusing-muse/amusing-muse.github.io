@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Survey <!--Overall aims, strategy and policies, proposals-->
+title: Survey 
 permalink: /survey/
 ---
+
+<!--Overall aims, strategy and policies, proposals-->
 
 ## The AMUSING survey strategy
 
