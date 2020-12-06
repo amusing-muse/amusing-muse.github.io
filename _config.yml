@@ -1,6 +1,5 @@
 title: The All-weather MUse Supernova Integral field Nearby Galaxies (AMUSING) survey
-description: > # this means to ignore newlines until "baseurl:"
-> #  Revolutionizing supernova environments and galaxy formation, enrichment, and evolution with IFS
+description: > # this means to ignore newlines until "baseurl:" abans: Revolutionizing supernova environments and galaxy formation, enrichment, and evolution with IFS
   Funded by the European Union's Horizon 2020 research and innovation programme under the Marie Sk\l{}odowska-Curie grant agreement No. 839090.
 
 theme: minima
