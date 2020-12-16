@@ -38,19 +38,19 @@ Host galaxy dependences in the Near Infrared SN Ia Hubble diagram
 #### [P100 - 100.D-0341(A)](docs/amusing_P100.pdf)			
 Late-time nebular spectroscopy and environments of core-collapse supernovae
 
-#### [P101 - 100.D-0341(A)](docs/amusing_P101.pdf)			
+#### [P101 - 101.D-0748(A/B)](docs/amusing_P101.pdf)			
 Continuing the survey of nebular spectra and environments of core-collapse supernovae
 
-#### [P102 - 100.D-0341(A)](docs/amusing_P102.pdf)			
+#### [P102 - 102.D-0095(A) ](docs/amusing_P102.pdf)			
 The local environments of type Ia supernovae
 
-#### [P103 - 100.D-0341(A)](docs/amusing_P103.pdf)			
+#### [P103 - 103.D-0440(A/B)](docs/amusing_P103.pdf)			
 Supernova and tidal disruption event rates as a function of environment age and metallicity
 
-#### [P104 - 100.D-0341(A)](docs/amusing_P104.pdf)			
+#### [P104 - 104.D-0503(A/B](docs/amusing_P104.pdf)			
 Star formation in low-mass galaxies as traced by extra-galactic transients
 
-#### [P106 - 100.D-0341(A)](docs/amusing_P106.pdf)			
+#### [P106 - 106.2104.001](docs/amusing_P106.pdf)			
 Type Ia supernovae in low-luminosity host environments
 
 
