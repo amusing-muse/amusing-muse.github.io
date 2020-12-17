@@ -235,9 +235,9 @@ Abstract: We present the discovery of a lensed galaxy observed with MUSE IFS. Be
 __Status:__ (01/12/17) Preliminar analysis finished, now simulating the lens to subtract from the cube and repeat the analysis.
 
 ### Project AM29
-__Title:__ _Dust creation/destruction at SN sites_
-__PI:__ C. Angus, C. Gall
-Abstract: SNe are thought to destroy circumstellar and interstellar dust, either due to their intense radiation shortly after explosion or on longer timescales, due to forward (and reverse) shocks that sweep up any surrounding material. Dust grains may be fully destroyed (e.g., vaporised), or shattered into smaller grains if existing grains have been sufficiently large. In both cases, dust forming elements such as carbon, oxygen, calcium, iron or magnesium are returned to the gaseous phase. Therefore observable signatures of dust destruction close to the SN location may include changes in the local extinction (or extinction law) relative to the surrounding regions, as well as a local enhancement of dust forming elements at the SN location (or conversely a decrease in the case of dust creation). Here we will attempt to map these changes, and hence investigate the effect of dust destruction for different SNe and environments 
+__Title:__ _Dust creation/destruction at SN sites_  
+__PI:__ C. Angus, C. Gall. 
+Abstract: SNe are thought to destroy circumstellar and interstellar dust, either due to their intense radiation shortly after explosion or on longer timescales, due to forward (and reverse) shocks that sweep up any surrounding material. Dust grains may be fully destroyed (e.g., vaporised), or shattered into smaller grains if existing grains have been sufficiently large. In both cases, dust forming elements such as carbon, oxygen, calcium, iron or magnesium are returned to the gaseous phase. Therefore observable signatures of dust destruction close to the SN location may include changes in the local extinction (or extinction law) relative to the surrounding regions, as well as a local enhancement of dust forming elements at the SN location (or conversely a decrease in the case of dust creation). Here we will attempt to map these changes, and hence investigate the effect of dust destruction for different SNe and environments   
 __Status:__ (17/12/20) Start
 
 
