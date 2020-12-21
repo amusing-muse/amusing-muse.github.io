@@ -51,7 +51,7 @@ __Status (20/12/20):__ Most of the analysis done. Waiting to finish the data rel
 
 ### Project AM3
 __Title:__ _Exploring the SNe environments and related issues through their narrow absorption lines_  
-__PI:__ L. Wang -> Santiago / Lisbon Postdoc.
+__PI:__ L. Wang -> Santiago / Lisbon Postdoc.  
 __Abstract:__ As SN sample sizes increase, SN host extinction dominates the systematic error when using them as distance indicators for cosmology. Here we will construct complete SN host extinction maps based on 3D (x, y, λ) IFU data cubes by means of mapping narrow ISM absorption lines (Na I, K I, Ca II H&K, DIB5780) and HII region emission lines (Balmer decrement). We will compare and test various empirical reddening relations between the spectral lines and color excess EB−V . From the multiple dust extinction indicators obtained with IFU cubes, the dust properties of the overall spatially resolved host together with that at the specific SN site will be constrained. Therefore, the degeneracy of SN color excess from its intrinsic color and dust extinction will likely be broken and finally the nature of SN intrinsic color will be constrained. The extinction map will shed light on the systematic errors of the distance measurements for Type Ia and Type II SNe. A direct comparison of sodium excess and blueshifted narrow absorption Na I doublets, both present in the galaxies and SN spectra, will allow us to understand the nature of galactic winds and pre-SN outflows. The CSM or ISM origin problem to the Na excess of Type Ia SNe will hopefully be solved by mapping the blueshifted Na I features of SN host galaxies and the SN positions on BPT diagram, hence possibly providing tight constraints to their progenitor systems. Meanwhile, the DIB5780, etc may be applied to explore the origin of the diffuse interstellar bands.  
 __Data usage:__ All semesters, but specifically P97  
 __Status (06/09/17):__ No updates.  
@@ -61,7 +61,7 @@ __Status (20/12/20):__ Claudia taking over. Lots of interesting stuff going on.
 ### Project AM4
 __Title:__ _Extinction laws towards supernova host galaxies with integral field spectroscopy_  
 __PI:__ A. Razza  
-__Abstract:__ Along the last 30 years it has grown evidence of the presence of an oxygen abundance gradient in spiral galaxies that has been interpreted as an evidence of inside-out growth. More recently it has been proposed the presence of a common abundance gradient and central decrement correlated with the mass of galaxies, by the use of IFU surveys. However, its characterization is hampered by the coarse resolution of those surveys (CALIFA, PINGS, MaNGA...), thus we would like to explore it by the analysis of the HII regions within the AMUSING dataset.
+__Abstract:__ Along the last 30 years it has grown evidence of the presence of an oxygen abundance gradient in spiral galaxies that has been interpreted as an evidence of inside-out growth. More recently it has been proposed the presence of a common abundance gradient and central decrement correlated with the mass of galaxies, by the use of IFU surveys. However, its characterization is hampered by the coarse resolution of those surveys (CALIFA, PINGS, MaNGA...), thus we would like to explore it by the analysis of the HII regions within the AMUSING dataset.  
 __Data usage:__ All semesters, especially those data with Av/Rv calculations from the SNe(Ia)  
 __Status (06/09/17):__ Alessandro recently arrived at ESO to start his thesis project which will be working on this project. Significant progress expected in the coming months.  
 __Status:__ [List of relevant papers](https://docs.google.com/document/d/1EiYqwC3WqUtvgUGVtCOameF--Ml4ZcPzetwUXLTMGyA/edit)  
@@ -69,8 +69,8 @@ __Status (01/06/20):__ Alessandro now in Granada making progress.
 
 ### Project AM5
 __Title:__ _Search for long-lived SN Halpha emission_  
-__PI:__ J. Lyman, L. Galbany, H. Kuncarayakti, C. Badenes, P. James 
-__Abstract:__ The SV data for MUSE had observations of SN 2005ip almost 10 years after the SN exploded. The SN is the brightest object in the galaxy in Halpha (excluding the galaxy centre). It displays strong, broad emission  and other SNe have also been seen to show Halpha emission on a timescale of years. We propose a search of all galaxies in AMUSING to look for evidence of long-lived broad Halpha emission at any location in order to search for missed SNe displaying this behaviour (this can be broadened to all public MUSE data of nearby galaxies or parts of galaxies). We will fit emission lines to the continuum-subtracted data to find regions that are not well fit by narrower lines (~100 km/s) typical of HII regions to search for candidate broad emission regions. Any detections will be subject to proposals to follow up their evolution. We will place rates (or rate limits for no detections) on these types of events.
+__PI:__ J. Lyman, L. Galbany, H. Kuncarayakti, C. Badenes, P. James  
+__Abstract:__ The SV data for MUSE had observations of SN 2005ip almost 10 years after the SN exploded. The SN is the brightest object in the galaxy in Halpha (excluding the galaxy centre). It displays strong, broad emission  and other SNe have also been seen to show Halpha emission on a timescale of years. We propose a search of all galaxies in AMUSING to look for evidence of long-lived broad Halpha emission at any location in order to search for missed SNe displaying this behaviour (this can be broadened to all public MUSE data of nearby galaxies or parts of galaxies). We will fit emission lines to the continuum-subtracted data to find regions that are not well fit by narrower lines (~100 km/s) typical of HII regions to search for candidate broad emission regions. Any detections will be subject to proposals to follow up their evolution. We will place rates (or rate limits for no detections) on these types of events.  
 __Data usage:__ All semesters  
 __Status (10/09/17):__ Machinery is in place, now waiting for data...  
 __Status (21/01/19):__ Hector working now  
@@ -97,7 +97,7 @@ __Status (20/12/20):__ LG: I think this is dead.
 ### Project AM8
 __Title:__ _Oxygen abundance gradients + central decrement_  
 __PI:__ L. Sánchez-Menguiano  
-__Abstract:__ Along the last 30 years it has grown evidence of the presence of an oxygen abundance gradient in spiral galaxies that has been interpreted as an evidence of inside-out growth. More recently it has been proposed the presence of a common abundance gradient and central decrement correlated with the mass of galaxies, by the use of IFU surveys. However, its characterization is hampered by the coarse resolution of those surveys (CALIFA, PINGS, MaNGA...), thus we would like to explore it by the analysis of the HII regions within the AMUSING dataset.
+__Abstract:__ Along the last 30 years it has grown evidence of the presence of an oxygen abundance gradient in spiral galaxies that has been interpreted as an evidence of inside-out growth. More recently it has been proposed the presence of a common abundance gradient and central decrement correlated with the mass of galaxies, by the use of IFU surveys. However, its characterization is hampered by the coarse resolution of those surveys (CALIFA, PINGS, MaNGA...), thus we would like to explore it by the analysis of the HII regions within the AMUSING dataset.  
 __Data usage:__ All semesters  
 __Status:__ [Published](http://adsabs.harvard.edu/abs/2018A%26A...609A.119S)
 
@@ -130,7 +130,7 @@ __Status (20/12/20):__ No news.
 
 ### Project AM12
 __Title:__ _Unveiling the sources of disk heating in spiral galaxies_  
-__PI:__ F. Pinna, J. Falcon-Barroso, M. Martig, G. van de Ven, M. Lyubenova, R. Leaman
+__PI:__ F. Pinna, J. Falcon-Barroso, M. Martig, G. van de Ven, M. Lyubenova, R. Leaman  
 __Abstract:__ The stellar velocity ellipsoid (SVE) quantifies the amount of velocity dispersion in the vertical, radial and azimuthal directions. Since different disk heating mechanisms (e.g. spiral arms, giant molecular clouds, minor mergers, etc) affect these components differently, the SVE can constrain the sources of heating in disk galaxies. At present the 3D nature of the SVE can only be directly measured in the Milky Way but, thanks to integral-field surveys we are now in position to carry out the same kind of analysis in external galaxies. For this purpose, we will gather a sample of intermediate inclined spiral galaxies along the Hubble sequence (Sa to Sd types) with high quality stellar kinematic maps in the AMUSING survey. This will allow us to probe the SVE for each galaxy from different line-of-sights in different regions, and thus provide strong constraints on its shape. The ultimate goal is to relate our findings to realistic numerical simulations of disks with different formation histories (quiescent vs mergers), and we will also put the results of the Milky Way in context with the general population of spiral galaxies.  
 __Data usage:__ All semesters  
 __Status:__ (06/09/17) Data not deemed good enough for this project. ### Project put on hold for now.
@@ -144,7 +144,7 @@ __Status:__ [Published](http://adsabs.harvard.edu/abs/2017ApJ...850L..17L)
 
 ### Project AM14
 __Title:__ _Unsupervised classification of spectra_  
-__PI:__ F. Förster. S. González-Gaitán 
+__PI:__ F. Förster. S. González-Gaitán  
 __Abstract:__ this is a two week project for the astroinformatics course. The idea is to extract spectra from the galaxy and try different unsupervised methods, either from the entire frequency range or from particular features which the students must design (based on e.g. https://arxiv.org/pdf/1207.3928v1.pdf). A similar project, for educational purposes, will be done in January as part of the Harvard Chile school on data science http://www.hcds.cl, using a larger dataset.  
 __Data usage:__ All semesters  
 __Status (06/09/17):__ Data was used in summer school, not clear if any further analysis?  
@@ -194,7 +194,7 @@ __Status (21/01/19):__ Carles + Lluis working on this. Needs to wait for photome
 
 ### Project AM19
 __Title:__ _young/old supernova remnants detection_  
-__PI:__ L. Galbany, Hector Mártinez-Rodríguez
+__PI:__ L. Galbany, Hector Mártinez-Rodríguez  
 __Abstract:__ Ejecta-dominated SNR show broad emissions from H and O in their spectra. ISM-dominated SNR present higher SII/Ha ratios than HII regions. The idea is to look for these two families in all AMUSING datacubes. I found a method to discover broad emission that successfully found all known SN in nebular phases in our data. Hopefully we will find some new detections, but if not, I would like to present the method and write a short paper on ‘Unexpected objects in IFS data’.  
 __Data usage:__ All semesters  
 __Status (06/09/17):__ Analysis ready, waiting for a student to work on this.  
@@ -222,7 +222,7 @@ __Title:__ _On the interaction between nuclear star formation and AGN in nearby 
 __PI:__ René Ortega Minakata, Marcel Chow, Aitor Robleto, Josué Trejo   
 __Abstract:__ The main goal would be to contribute to the understanding of the interaction between AGN and nuclear star formation in the context of galaxy evolution. Particularly, the goal would be to separate spectrally and spatially the contribution of the AGN from the contribution of stars, particularly young stars, in the central / nuclear regions of nearby AGN-host galaxies. A secondary goal would be to test the methods to derive the gas-phase metallicity in AGN-dominated regions (e.g. Dors et al.) and compare them to standard strong-line methods for HII regions. The methods to achieve these goals would be to map the dynamics of the ionized gas and stars of the central regions of these galaxies; also, to map the gas diagnostics with great detail in these regions, in order to disentangle between regions dominated by the influence of the AGN and regions where young stellar populations ionize the gas. The main technique to be applied is spectral fitting using Starlight, but we intend to also use other fitting techniques, mainly to test for type-1 AGN in the central-most regions of these galaxies. The expected results include maps of dynamics, ionized-gas diagnostics, stellar populations and gas metallicity of the central regions of these galaxies. Based on previous studies in the literature, we expect to find co-existence of both young-stellar populations within or close-by an AGN-influenced region, and we expect to better understand where this AGN-influenced region ends. We expect to submit two or three papers in the course of three years from this project. The maximum amount of money that we could get is 1.5M pesos to be spent in a total of three years, which is about 70k USD at current exchange rates. It's not much but it's enough to hire one postdoc, pay for the publications and a few international conferences, buy a couple of laptops, and maybe bring one of you guys to Mexico for a week or so. We have access to enough CPU power to run spectral fitting with starlight of about five previously-reduced MUSE datacubes per semester at median capacity. We found a list of observed galaxies from AMUSING in google and found six AGN-hosts in that list, so we conclude our project is feasible in the three-year period with our current capacity. We have also made sure that the technical specifications of MUSE make its data capable of and useful to execute our project. The group proposing this project includes a professor (to be confirmed), a reasearch-oriented postdoc (me), a teaching-oriented postdoc, an almost PhD graduate that is already working as a professor outside of Mexico, and a soon-to-be PhD student whose thesis project is partially related to this project. We plan to hire another post-doc if we get the mexican money, to be fully dedicated to this project. All members of this group have experience analyzing CALIFA and SAMI data with the same methods and technique proposed here, and some are currently experimenting with MaNGA data. We have also developed our own suite of spectral fitting and analysis routines based on Starlight, dubbed The GIFU suite, so we consider we have enough experience to carry out this project successfully.  
 __Data usage:__ All semesters  
-__Status:__ [Published](https://arxiv.org/abs/2012.08094)
+__Status (20/12/20):__ First paper [Published](https://arxiv.org/abs/2012.08094)
 
 ### Project AM23
 __Title:__ _SN nebular spectroscopy_  
@@ -236,7 +236,7 @@ __Status (20/12/20):__ No news
 ### Project AM24
 __Title:__ _Simulating the host galaxies of quasars as seen by HARMONI_  
 __PI:__ A. Monreal-Ibero  
-__Abstract:__ In the frame of the preparatory work for science with HARMONI, we are simulating different scientific cases to evaluate the performance of the instrument. For that, we make use of existing high-quality IFS data of nearby galaxies, that later on will be manipulated to mimic possible observations with HARMONI. MUSE data taken by the AMUSING project are ideal for this aim. Specifically, here we apply for the possibility of using the reduced cubes of the ellipticals (or early-type) galaxies to simulate the host galaxy of a quasar at different redshifts (up to z~2).
+__Abstract:__ In the frame of the preparatory work for science with HARMONI, we are simulating different scientific cases to evaluate the performance of the instrument. For that, we make use of existing high-quality IFS data of nearby galaxies, that later on will be manipulated to mimic possible observations with HARMONI. MUSE data taken by the AMUSING project are ideal for this aim. Specifically, here we apply for the possibility of using the reduced cubes of the ellipticals (or early-type) galaxies to simulate the host galaxy of a quasar at different redshifts (up to z~2).  
 __Data usage:__ NGC809 (may request additional cubes in the future)  
 __Status (05/04/17):__ Just been sent data.  
 __Status (13/09/17):__ Currently using data to simulate adding a quasar to MUSE cube and moving it to z=1.5...  
@@ -255,7 +255,7 @@ __Status (20/12/20):__ I have seen the draft and it is done. All plots need to b
 
 ### Project AM26
 __Title:__ _Wolf-Rayet population in NGC 3451_  
-__PI:__ L. Galbany, A. R. López-Sánchez, Carolina Kherig 
+__PI:__ L. Galbany, A. R. López-Sánchez, Carolina Kherig  
 __Data usage:__ SN1997dn host (from HK P95)  
 __Status (06/09/17):__ SDSS, PMAS, and MUSE data ready. No significant advances.  
 __Status (01/12/17):__ Data anlayzed. Plan to work 100% on this during my visit to Angel in May.  
@@ -279,63 +279,63 @@ __Abstract:__ We present the discovery of a lensed galaxy observed with MUSE IFS
 __Status:__ [Published](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/sty1448/5032805?redirectedFrom=fulltext)
 
 ### Project AM29
-__PI:__ J. L. Prieto (w B. Shapee and Michael)
-__Title:__ nebular SNIa spectra in AMUSING
-__Abstract:__ put constraints on H content and SN Ia progenitors
-__Data:__ Mostly P99
+__PI:__ J. L. Prieto (w B. Shapee and Michael)  
+__Title:__ nebular SNIa spectra in AMUSING  
+__Abstract:__ put constraints on H content and SN Ia progenitors  
+__Data:__ Mostly P99  
 __Status (20/02/18):__   
 __Status (21/01/19):__ ask Jose.  
 __Status (20/12/20):__ no news, but I am sure this is being done.
 
 ### Project AM30
-__PI:__ T. Collett
-__Title:__ MUSE + HST galaxy lenses
-__Abstract:__ we have a sample of 3 low redshift MUSE lenses with HST imaging. We're working on mass to light ratios, dark matter profiles, IMF etc. This lens would make an excellent addition to the sample and we'd like to put in a mid-cycle HST proposal for it.
-__Data:__ LSQ13cwp cube
+__PI:__ T. Collett  
+__Title:__ MUSE + HST galaxy lenses  
+__Abstract:__ we have a sample of 3 low redshift MUSE lenses with HST imaging. We're working on mass to light ratios, dark matter profiles, IMF etc. This lens would make an excellent addition to the sample and we'd like to put in a mid-cycle HST proposal for it.  
+__Data:__ LSQ13cwp cube  
 __Status (20/02/18):__  
 __Status (21/01/19):__ ask Thomas.  
 __Status (20/12/20):__ I would say this is not going to happen.
 
 ### Project AM31
-__PI:__ Mark Phillips, N. Morrell, C. Contreras, L. Galbany
-__Title:__ SNIa in low luminosity galaxies
-__Abstract:__ low luminosity star-forming galaxies of CSP-II SNe Ia, which preferentially host luminous slow-declining (91T-like)
-__Data:__ iPTF14fpg, CSP13aaq, CSP14aar, CSP14aar, CSP12N, LSQ14ie, LSQ14bjj, LSQ15aja
+__PI:__ Mark Phillips, N. Morrell, C. Contreras, L. Galbany  
+__Title:__ SNIa in low luminosity galaxies  
+__Abstract:__ low luminosity star-forming galaxies of CSP-II SNe Ia, which preferentially host luminous slow-declining (91T-like)  
+__Data:__ iPTF14fpg, CSP13aaq, CSP14aar, CSP14aar, CSP12N, LSQ14ie, LSQ14bjj, LSQ15aja  
 __Status (20/07/18):__ Defining sample.  
 __Status (30/10/18):__ Analysis done.  
 __Status (21/01/19):__ Mark writing now? Check?  
 __Status (20/12/20):__ Mark still working on this.
 
 ### Project AM32
-__PI:__ Isaac Lozano, Lluís Galbany
-__Title:__ SNII environment vs SNII LC parameters
-__Data:__ 20 SNII hosts
+__PI:__ Isaac Lozano, Lluís Galbany  
+__Title:__ SNII environment vs SNII LC parameters  
+__Data:__ 20 SNII hosts  
 __Status (12/11/18):__ Defining sample.  
 __Status (21/01/19):__ Masters student. Add 60 SNe/AMUSING hosts etc.  
 __Status (21/08/19):__ Isaac writing the master thesis. Defense is in September.  
 __Status (11/12/19):__ Defense done. Master thesis done. Not sure if this will end up in a paper. It needs a bit more work.
 
 ### Project AM33
-__PI:__ Claudia Gutiérrez
-__Title:__ SN2017ivv
-__Data:__ 1 host
+__PI:__ Claudia Gutiérrez  
+__Title:__ SN2017ivv  
+__Data:__ 1 host  
 __Status:__ [Published](https://academic.oup.com/mnras/article-abstract/499/1/974/5910509?redirectedFrom=fulltext)
 
 ### Project AM34
-__PI:__ Asier, Yago Ascasibar, L. Galbany
-__Title:__ SN rate statistics in nearby galaxies from IFS
-__Data:__ ~50 hosts
+__PI:__ Asier, Yago Ascasibar, L. Galbany  
+__Title:__ SN rate statistics in nearby galaxies from IFS  
+__Data:__ ~50 hosts  
 __Status:__ [Published](not_yet_on_arxiv) 
 
 ### Project SV4
-__PI:__ E. Bellochi, Y. Ascasibar, L. Galbany
-__Title:__ SN rate statistics in nearby galaxies from IFS
-__Data:__ NGC2906
+__PI:__ E. Bellochi, Y. Ascasibar, L. Galbany  
+__Title:__ SN rate statistics in nearby galaxies from IFS  
+__Data:__ NGC2906  
 __Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..83B/abstract)
 
 ### Project AM35
-__PI:__ Lluís Galbany, Joe Anderson
-__Title:__ SN2002fw SNIa at z=1.3 with ultra-deep field MUSE data.
+__PI:__ Lluís Galbany, Joe Anderson  
+__Title:__ SN2002fw SNIa at z=1.3 with ultra-deep field MUSE data.  
 __Status:__ MOU signed with MUSE GTO people  
 __Status (11/12/19):__ They sent us a cutout of the cube. Not very useful.  
 __Status (20/12/20):__ Still waiting for the final cube.
