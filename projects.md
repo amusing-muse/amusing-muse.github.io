@@ -216,6 +216,7 @@ __PI:__  Matteo Fossati, Alessandro Boselli
 __Abstract:__  NGC 4424 is a peculiar star forming galaxy located in the Virgo cluster. Deep narrow band Halpha images indicate the presence of a nuclear starburst, with extraplanar low surface brightness tails of ionised gas. The lack of star forming regions in the outer disc and the presence of prominent Balmer absorption lines indicate that here the star formation activity has been abruptly quenched. We propose to combine 2D spectroscopic data from MUSE with multifrequency data covering the whole electromagnetic spectrum to study the star formation history of this peculiar galaxy. The spectro-photometric data will be compared to tuned models of galaxy evolution in rich environments and will be fitted with SED fitting codes to reconstruct the star formation history of NGC 4424 with the purpose to identify the physical mechanism responsible for the quenching of its star formation activity.  
 __Data usage:__ All semesters  
 __Status:__ [Published](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1810.09234)
+__Status:__ [2nd paper Published](---)
 
 ### Project AM22
 __Title:__ _On the interaction between nuclear star formation and AGN in nearby galaxies_  
@@ -283,9 +284,7 @@ __PI:__ J. L. Prieto (w B. Shapee and Michael)
 __Title:__ nebular SNIa spectra in AMUSING  
 __Abstract:__ put constraints on H content and SN Ia progenitors  
 __Data:__ Mostly P99  
-__Status (20/02/18):__   
-__Status (21/01/19):__ ask Jose.  
-__Status (20/12/20):__ no news, but I am sure this is being done.
+__Status:__  [Published](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.1044T/abstract)  
 
 ### Project AM30
 __PI:__ T. Collett  
