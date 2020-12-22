@@ -5,7 +5,7 @@ permalink: /other/
 ---
 
 
-## Collaboration whiteboard]
+## Collaboration whiteboard
 
 [Link](https://docs.google.com/document/d/1JEt9ljtPOx73zWXnbt2phEjYK4LvhO8UjN-C8vIklGg/edit)
  
