@@ -362,6 +362,13 @@ __PI:__ C. Angus, C. Gall.
 __Abstract:__ SNe are thought to destroy circumstellar and interstellar dust, either due to their intense radiation shortly after explosion or on longer timescales, due to forward (and reverse) shocks that sweep up any surrounding material. Dust grains may be fully destroyed (e.g., vaporised), or shattered into smaller grains if existing grains have been sufficiently large. In both cases, dust forming elements such as carbon, oxygen, calcium, iron or magnesium are returned to the gaseous phase. Therefore observable signatures of dust destruction close to the SN location may include changes in the local extinction (or extinction law) relative to the surrounding regions, as well as a local enhancement of dust forming elements at the SN location (or conversely a decrease in the case of dust creation). Here we will attempt to map these changes, and hence investigate the effect of dust destruction for different SNe and environments.   
 __Status (17/12/20):__ Start
 
+### Project AM40
+__Title:__ _ASASSN-15hy and SCh SNIa_  
+__PI:__ L. jing, E. Hsiao.  
+__Abstract:__    
+__Data:__ ASASSN-15hy  
+__Status (05/01/21):__ Draft circulated
+
 
 
 <!--
