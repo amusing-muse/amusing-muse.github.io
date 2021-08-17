@@ -107,7 +107,6 @@ __PI:__ L. Sánchez-Menguiano
 __Abstract:__ We would like to explore the well known M-z relation proposed by Tremonti et al. (2004) using the extensive catalog of HII regions, extracted with unique resolution, in order to understand if part of the dispersion described in the literature is due to contamination due to diffuse gas, which is clearly addressed by the super-resolution of MUSE datasets. Evenmore, we propose to characterize the Sigma-z relation (or local M-z relation), proposed by Rosales-Ortega et al. 2012, and the possible secondary relation with the SFR.  
 __Data usage:__ All semesters  
 __Status (12/12/16):__  
-__Status (21/01/19):__ ask Sebastian?  
 __Status (20/12/20):__ ask Sebastian?
 
 ### Project AM10
@@ -116,7 +115,6 @@ __PI:__ T. Ruiz-Lara
 __Abstract:__ We propose to explore the azimutal variations of the stellar properties in disk galaxies making use of the super-resolution provided by AMUSING in order to determine the effect of secular processes (bars, arms...) on the evolution of galaxies.  
 __Data usage:__ All semesters  
 __Status (12/12/16):__  
-__Status (21/01/19):__ ask Sebastian?  
 __Status (20/12/20):__ ask Sebastian?
 
 ### Project AM11
@@ -200,7 +198,7 @@ __Data usage:__ All semesters
 __Status (06/09/17):__ Analysis ready, waiting for a student to work on this.  
 __Status (20/02/18):__ Héctor Martinez taking over + Joe L. Join with JL paper above.  
 __Status (13/08/19):__ Héctor finished the analysis.  
-__Status (20/12/20):__ Sitting in a folder. No time to write.
+__Status (17/08/21):__ Draft almost finished. Héctor left astronomy...
 
 ### Project AM20
 __Title:__ _The Origins of Galaxy Bimodality: Quenching Mechanisms over the last 8 Gyrs_  
@@ -215,8 +213,8 @@ __Title:__ _The star formation history of the perturbed Virgo cluster galaxy NGC
 __PI:__  Matteo Fossati, Alessandro Boselli  
 __Abstract:__  NGC 4424 is a peculiar star forming galaxy located in the Virgo cluster. Deep narrow band Halpha images indicate the presence of a nuclear starburst, with extraplanar low surface brightness tails of ionised gas. The lack of star forming regions in the outer disc and the presence of prominent Balmer absorption lines indicate that here the star formation activity has been abruptly quenched. We propose to combine 2D spectroscopic data from MUSE with multifrequency data covering the whole electromagnetic spectrum to study the star formation history of this peculiar galaxy. The spectro-photometric data will be compared to tuned models of galaxy evolution in rich environments and will be fitted with SED fitting codes to reconstruct the star formation history of NGC 4424 with the purpose to identify the physical mechanism responsible for the quenching of its star formation activity.  
 __Data usage:__ All semesters  
-__Status:__ [Published](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1810.09234)
-__Status:__ [2nd paper Published](---)
+__Status:__ 1st paper [Published](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1810.09234)
+__Status:__ 2nd paper [Published](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B/abstract)
 
 ### Project AM22
 __Title:__ _On the interaction between nuclear star formation and AGN in nearby galaxies_  
@@ -241,8 +239,7 @@ __Abstract:__ In the frame of the preparatory work for science with HARMONI, we 
 __Data usage:__ NGC809 (may request additional cubes in the future)  
 __Status (05/04/17):__ Just been sent data.  
 __Status (13/09/17):__ Currently using data to simulate adding a quasar to MUSE cube and moving it to z=1.5...  
-__Status (21/01/19):__ ???  
-__Status (20/12/20):__ No news
+__Status (20/08/21):__ Draft circultaed and paper submitted
 
 ### Project AM25
 __Title:__ _AGN feedback in AMUSING galaxies_  
@@ -367,9 +364,14 @@ __Title:__ _ASASSN-15hy and SCh SNIa_
 __PI:__ L. Jing, E. Hsiao.  
 __Abstract:__ ASASSN-15hy shares many of the hallmark characteristics of 03fg-like SNe Ia. It is relatively bright, lacks a clear i-band secondary maximum, and shows a strong and persistent CII feature and a low SiII 6355A velocity. However, some of its properties are also extreme compared to others in the 03fg-like group. ASASSN-15hy is under-luminous (MB = –19.14 ± 0.16 mag at B-band maximum), red (B −V = 0.18 ± 0.01 mag at B-band maximum), yet slowly declining (∆m15(B)= 0.73 ± 0.03 mag). It has the most delayed onset of the i-band primary maximum of any 03fg-like observed. ASASSN-15hy is extremely luminous in the NIR (MH ≤ —19.39 mag), and in contrast with normal SNe Ia, it also lacks the prominent H-band break emission feature at +10 d. The observational properties of ASASSN-15hy may be explained in the context of an explosion of a degenerate core inside a non-degenerate envelope. In such a configuration, the kinetic energy produced in the explosion runs into the non-degenerate envelope that provides additional luminosity and slow ejecta velocities. An initial deflagration burning phase is critical in producing the low 56Ni mass and luminosity, while the large core and envelope masses are essential in providing the large diffusion time scales required to produce the broad light curves. The model that best match the observations consists of a 1.47M degenerate core and a 0.8M non-degenerate envelope. This  “deflagration core-degenerate” scenario (DCD) may result from the secular merger between a white dwarf and the degenerate core of an AGB star.  
 __Data:__ ASASSN-15hy  
-__Status (05/01/21):__ Draft circulated
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv210708150L/abstract)
 
-
+### Project AM41
+__Title:__ _SNIa rates_  
+__PI:__ T. Holoien.  
+__Abstract:__ ASASSN SN Ia rates as a function of host galaxy properties. AMUSING contributing with 7 low-luminosity ASASSN hosts.  
+__Data:__ 7 cubes
+__Status (16/08/21):__ Data sent
 
 <!--
 # Other ideas
