@@ -213,8 +213,9 @@ __Title:__ _The star formation history of the perturbed Virgo cluster galaxy NGC
 __PI:__  Matteo Fossati, Alessandro Boselli  
 __Abstract:__  NGC 4424 is a peculiar star forming galaxy located in the Virgo cluster. Deep narrow band Halpha images indicate the presence of a nuclear starburst, with extraplanar low surface brightness tails of ionised gas. The lack of star forming regions in the outer disc and the presence of prominent Balmer absorption lines indicate that here the star formation activity has been abruptly quenched. We propose to combine 2D spectroscopic data from MUSE with multifrequency data covering the whole electromagnetic spectrum to study the star formation history of this peculiar galaxy. The spectro-photometric data will be compared to tuned models of galaxy evolution in rich environments and will be fitted with SED fitting codes to reconstruct the star formation history of NGC 4424 with the purpose to identify the physical mechanism responsible for the quenching of its star formation activity.  
 __Data usage:__ All semesters  
-__Status:__ 1st paper [Published](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1810.09234)
+__Status:__ 1st paper [Published](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.164B/abstract)
 __Status:__ 2nd paper [Published](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B/abstract)
+__Status:__ 3rd paper [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv211106635B/abstract)
 
 ### Project AM22
 __Title:__ _On the interaction between nuclear star formation and AGN in nearby galaxies_  
@@ -240,6 +241,7 @@ __Data usage:__ NGC809 (may request additional cubes in the future)
 __Status (05/04/17):__ Just been sent data.  
 __Status (13/09/17):__ Currently using data to simulate adding a quasar to MUSE cube and moving it to z=1.5...  
 __Status (20/08/21):__ Draft circultaed and paper submitted
+__Status (10/01/22):__  [Published](https://arxiv.org/abs/2112.10435)
 
 ### Project AM25
 __Title:__ _AGN feedback in AMUSING galaxies_  
@@ -321,7 +323,7 @@ __Status:__ [Published](https://academic.oup.com/mnras/article-abstract/499/1/97
 __PI:__ Asier, Yago Ascasibar, L. Galbany  
 __Title:__ SN rate statistics in nearby galaxies from IFS  
 __Data:__ ~50 hosts  
-__Status:__ [Published](not_yet_on_arxiv) 
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3122C/abstract) 
 
 ### Project SV4
 __PI:__ E. Bellochi, Y. Ascasibar, L. Galbany  
