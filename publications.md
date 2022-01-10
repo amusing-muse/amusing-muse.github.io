@@ -4,10 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-(28.) __AM22__ _MUSE reveals extended circumnuclear outflows in the Seyfert 1 NGC 7469_, A. Robleto et al., [2021 ApJL](---).  
-(27.) __AM21__ _A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).IX. The effects of ram pressure stripping down to the scale of individual HII regions in the dwarf galaxy IC 3476_, A. Boselli et al., [2021 A&A](---).  
-(26.) __AMX__ _Supernova 2018cuf: A Type IIP supernova with a slow fall from plateau_, Y. Dong et al., [2021 ApJ](---).  
-(25.) __AM34__ _The delay time distribution of supernovae from integral-field spectroscopy of nearby galaxies_, A. Castrillo et al., [2021 MNRAS](---).  
+. Lu, J.; Ashall, C.; Hsiao, E. Y.; Hoeflich, P.; Galbany, L., et al., ApJ 920:107 
+                            . Tucker, M. A., et al., MNRAS 506:6014 
+                            
+(30.) __AM22__ _ASASSN-15hy: an under-luminous, red 03fg-like type Ia supernova_, J. Lu et al., [2021 ApJ 920:107](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..107L/abstract).  
+(29.) __AM21__ _An Amusing Look at the Host of the Periodic Nuclear Transient ASASSN-14ko Reveals a Second AGN_, M. Tucker et al., [2021 MNRAS 506:6014](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.6014T/abstract). 
+(28.) __AM22__ _MUSE reveals extended circumnuclear outflows in the Seyfert 1 NGC 7469_, A. Robleto-Orús et al., [2021 ApJL 906:6](https://ui.adsabs.harvard.edu/abs/2021ApJ...906L...6R/abstract).  
+(27.) __AM21__ _A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).IX. The effects of ram pressure stripping down to the scale of individual HII regions in the dwarf galaxy IC 3476_, A. Boselli et al., [2021 A&A 646:139](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B/abstract).  
+(26.) __AMX__ _Supernova 2018cuf: A Type IIP supernova with a slow fall from plateau_, Y. Dong et al., [2021 ApJ 906:56](https://ui.adsabs.harvard.edu/abs/2021ApJ...906...56D/abstract).  
+(25.) __AM34__ _The delay time distribution of supernovae from integral-field spectroscopy of nearby galaxies_, A. Castrillo et al., [2021 MNRAS 501:3122](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3122C/abstract).  
 (24.) __AMX__ _Direct Evidence of Two-component Ejecta in Supernova 2016gkg from Nebular Spectroscopy_, H. Kuncarayakti et al., [2020 ApJ 902:139](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..139K/abstract).  
 (23.) __AM33__ _SN 2017ivv: two years of evolution of a transitional Type II supernova_, C. Gutiérrez et al., [2020 MNRAS 499:974](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499..974G/abstract).  
 (22.) __AMX__ _Carnegie Supernova Project II: The Slowest Rising Type Ia Supernova LSQ14fmg and Clues to the Origin of Super-Chandrasekhar/03fg-like Events_, E. Y. Hsiao et al., [2020; ApJ 900 140](https://ui.adsabs.harvard.edu/abs/2020ApJ...900..140H/abstract).  
