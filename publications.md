@@ -4,10 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-. Lu, J.; Ashall, C.; Hsiao, E. Y.; Hoeflich, P.; Galbany, L., et al., ApJ 920:107 
-                            . Tucker, M. A., et al., MNRAS 506:6014 
-                            
-(30.) __AM22__ _ASASSN-15hy: an under-luminous, red 03fg-like type Ia supernova_, J. Lu et al., [2021 ApJ 920:107](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..107L/abstract).  
+
+(32.) __AM24__ _HARMONI view of the host galaxies of active galactic nuclei around cosmic noon: Resolved stellar morpho-kinematics and the MBH-s* relation_, B. Garcí-Lorenzo et al., [2022 A&A](https://ui.adsabs.harvard.edu/abs/2021arXiv211210435G/abstract).  
+(31.) __AM21__ _A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).XII. Ionised gas emission in the inner regions of lenticular galaxies_, A. Boselli et al., [2022 A&A](https://ui.adsabs.harvard.edu/abs/2021arXiv211106635B/abstract).  
+(30.) __AM40__ _ASASSN-15hy: an under-luminous, red 03fg-like type Ia supernova_, J. Lu et al., [2021 ApJ 920:107](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..107L/abstract).  
 (29.) __AM21__ _An Amusing Look at the Host of the Periodic Nuclear Transient ASASSN-14ko Reveals a Second AGN_, M. Tucker et al., [2021 MNRAS 506:6014](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.6014T/abstract). 
 (28.) __AM22__ _MUSE reveals extended circumnuclear outflows in the Seyfert 1 NGC 7469_, A. Robleto-Orús et al., [2021 ApJL 906:6](https://ui.adsabs.harvard.edu/abs/2021ApJ...906L...6R/abstract).  
 (27.) __AM21__ _A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).IX. The effects of ram pressure stripping down to the scale of individual HII regions in the dwarf galaxy IC 3476_, A. Boselli et al., [2021 A&A 646:139](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B/abstract).  
