@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 
+(33.) __AM24__ _A long life of excess: The interacting Transient SN 2017hcc_, S. Moran et al., [2022 A&A](). 
 (32.) __AM24__ _HARMONI view of the host galaxies of active galactic nuclei around cosmic noon: Resolved stellar morpho-kinematics and the MBH-s* relation_, B. Garcí-Lorenzo et al., [2022 A&A](https://ui.adsabs.harvard.edu/abs/2021arXiv211210435G/abstract).  
 (31.) __AM21__ _A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).XII. Ionised gas emission in the inner regions of lenticular galaxies_, A. Boselli et al., [2022 A&A](https://ui.adsabs.harvard.edu/abs/2021arXiv211106635B/abstract).  
 (30.) __AM40__ _ASASSN-15hy: an under-luminous, red 03fg-like type Ia supernova_, J. Lu et al., [2021 ApJ 920:107](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..107L/abstract).  
