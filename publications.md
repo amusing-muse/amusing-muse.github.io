@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[//]: <> ((33.) __AMX__ _A long life of excess: The interacting Transient SN 2017hcc_, S. Moran et al., [2022 A&A]().)
+<!--- (33.) __AMX__ _A long life of excess: The interacting Transient SN 2017hcc_, S. Moran et al., [2022 A&A](). -->
 
 (34.) __AMX__ _Systematic errors on optical-SED stellar-mass estimates for galaxies across cosmic time and their impact on cosmology_, A. Paulino-Afonso et al., [2022 A&A., 662, 6]().  
 (33.) __AMX__ _A Tale of Two Type Ia Supernovae: The Fast-declining Siblings SNe 2015bo and 1997cn_, W. Hoogendam et al., [2022 ApJ, 928 103]().  
