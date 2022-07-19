@@ -213,9 +213,9 @@ __Title:__ _The star formation history of the perturbed Virgo cluster galaxy NGC
 __PI:__  Matteo Fossati, Alessandro Boselli  
 __Abstract:__  NGC 4424 is a peculiar star forming galaxy located in the Virgo cluster. Deep narrow band Halpha images indicate the presence of a nuclear starburst, with extraplanar low surface brightness tails of ionised gas. The lack of star forming regions in the outer disc and the presence of prominent Balmer absorption lines indicate that here the star formation activity has been abruptly quenched. We propose to combine 2D spectroscopic data from MUSE with multifrequency data covering the whole electromagnetic spectrum to study the star formation history of this peculiar galaxy. The spectro-photometric data will be compared to tuned models of galaxy evolution in rich environments and will be fitted with SED fitting codes to reconstruct the star formation history of NGC 4424 with the purpose to identify the physical mechanism responsible for the quenching of its star formation activity.  
 __Data usage:__ All semesters  
-__Status:__ 1st paper [Published](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.164B/abstract)
-__Status:__ 2nd paper [Published](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B/abstract)
-__Status:__ 3rd paper [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv211106635B/abstract)
+__Status:__ 1st paper [Published](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.164B/abstract)  
+__Status:__ 2nd paper [Published](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B/abstract)  
+__Status:__ 3rd paper [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv211106635B/abstract)  
 
 ### Project AM22
 __Title:__ _On the interaction between nuclear star formation and AGN in nearby galaxies_  
@@ -238,9 +238,6 @@ __Title:__ _Simulating the host galaxies of quasars as seen by HARMONI_
 __PI:__ A. Monreal-Ibero  
 __Abstract:__ In the frame of the preparatory work for science with HARMONI, we are simulating different scientific cases to evaluate the performance of the instrument. For that, we make use of existing high-quality IFS data of nearby galaxies, that later on will be manipulated to mimic possible observations with HARMONI. MUSE data taken by the AMUSING project are ideal for this aim. Specifically, here we apply for the possibility of using the reduced cubes of the ellipticals (or early-type) galaxies to simulate the host galaxy of a quasar at different redshifts (up to z~2).  
 __Data usage:__ NGC809 (may request additional cubes in the future)  
-__Status (05/04/17):__ Just been sent data.  
-__Status (13/09/17):__ Currently using data to simulate adding a quasar to MUSE cube and moving it to z=1.5...  
-__Status (20/08/21):__ Draft circultaed and paper submitted
 __Status (10/01/22):__  [Published](https://arxiv.org/abs/2112.10435)
 
 ### Project AM25
@@ -372,8 +369,16 @@ __Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv210708150L/ab
 __Title:__ _SNIa rates_  
 __PI:__ T. Holoien.  
 __Abstract:__ ASASSN SN Ia rates as a function of host galaxy properties. AMUSING contributing with 7 low-luminosity ASASSN hosts.  
-__Data:__ 7 cubes
+__Data:__ 7 cubes  
 __Status (16/08/21):__ Data sent
+
+### Project AM42
+__Title:__ _SNIIn properties connected to environments_  
+__PI:__ T. Moriya, L. Galbany.  
+__Abstract:__ Measuring explosion parameters from SNIIn light-curves and looking for correlations to their local environments in 23 AMUSING and PISCO galaxies.  
+__Data:__ 23 cubes  
+__Status (10/07/22):__ Visit to NAOJ to work on this
+
 
 <!--
 # Other ideas
