@@ -4,24 +4,24 @@ title: Publications
 permalink: /publications/
 ---
 
-(58.) __AMX__ _MUSE IFU observations of galaxies hosting tidal disruption events_ Pursiainen et al. [2025]().  
-(57.) __AMX__ _Assessing differences between local dust attenuation and point source extinction within the same galactic environments_, Duarte et al. [2025]().  
-(56.) __AMX__ _Bidimensional Exploration of the warm-Temperature Ionised gaS (BETIS) II. Revisiting the ionisation mechanism of the extraplanar diffuse ionised gas_, González-Díaz et al [2024]().  
-(55.) __AMX__ _1991T-like Supernovae_, Phillips et al. [2024]().  
-(54.) __AMX__ _Narrow absorption lines from intervening material in supernovae I. Measurements and temporal evolution_, González-Gaitán et al. [2024]().  
-(53.) __AMX__ _Bidimensional Exploration of the warm-Temperature Ionised gaS (BETIS) I. Showcase sample and first results_, Gonzalez-Diaz et al. [2024]().  
-(52.) __AMX__ _The carbon-rich type Ic supernova 2016adj in the iconic dust lane of Centaurus A: Potential signatures of an interaction with circumstellar hydrogen_, Stritzinger et al. [2024]().  
-(51.) __AMX__ _Supernova remnant properties and luminosity functions in NGC 7793 using MUSE IFS_, Kopsacheili, et al [2024]().  
-(50.) __AMX__ _Optical Spectroscopy of Type Ia Supernovae by the Carnegie Supernova Projects I and II_, Morrell et al. [2024]().  
+(58.) __AMX__ _MUSE IFU observations of galaxies hosting tidal disruption events_ Pursiainen et al. [2026 MNRAS 545f2093P](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2093P/abstract).  
+(57.) __AMX__ _Assessing differences between local dust attenuation and point source extinction within the same galactic environments_, Duarte et al. [2025 A&A 700:A169](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.169D/abstract).  
+(56.) __AMX__ _Bidimensional Exploration of the warm-Temperature Ionised gaS (BETIS) II. Revisiting the ionisation mechanism of the extraplanar diffuse ionised gas_, González-Díaz et al [2024 A&A 691:A25](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A..25G/abstract).  
+(55.) __AMX__ _1991T-like Supernovae_, Phillips et al. [2024 ApJS 273:16](https://ui.adsabs.harvard.edu/abs/2024ApJS..273...16P/abstract).  
+(54.) __AMX__ _Narrow absorption lines from intervening material in supernovae I. Measurements and temporal evolution_, González-Gaitán et al. [2024 A&A 687:108](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract).  
+(53.) __AMX__ _Bidimensional Exploration of the warm-Temperature Ionised gaS (BETIS) I. Showcase sample and first results_, Gonzalez-Diaz et al. [2024 A&A 687:20](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A..20G/abstract).  
+(52.) __AMX__ _The carbon-rich type Ic supernova 2016adj in the iconic dust lane of Centaurus A: Potential signatures of an interaction with circumstellar hydrogen_, Stritzinger et al. [2024 A&A 686:79](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..79S/abstract).  
+(51.) __AMX__ _Supernova remnant properties and luminosity functions in NGC 7793 using MUSE IFS_, Kopsacheili, et al [2024 MNRAS 530:1078](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.1078K/abstract).  
+(50.) __AMX__ _Optical Spectroscopy of Type Ia Supernovae by the Carnegie Supernova Projects I and II_, Morrell et al. [2024 ApJ 967:20](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...20M/abstract).  
 (49.) __AMX__ _H II regions and diffuse ionized gas in the AMUSING++ Compilation - I. Catalogue presentation_, Lugo-Aranda et al. [2024 MNRAS 528:6099](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.6099L/abstract).  
-(48.) __AMX__ _Recovering Lost Light: Discovery of Supernova Remnants with Integral Field Spectroscopy_, Martínez-Rodríguez et al. [2024]().  
-(47.) __AMX__ _A Metallicity Dependence on the Occurrence of Core-collapse Supernovae_, Pessi et al. [2023]().  
-(46.) __AMX__ _Fast and not-so-furious: Case study of the fast and faint Type IIb SN 2021bxu_, Desai et al. [2023]().  
-(45.) __AMX__ _A characterization of ASAS-SN core-collapse supernova environments with VLT+MUSE I. Sample selection, analysis of local environments, and correlations with light curve properties_, Pessi et al. [2023]().  
-(44.) __AMX__ _Environmental dependence of Type IIn supernova properties_, Moriya et al. [2023]().  
-(43.) __AMX__ _Examining the Properties of Low-luminosity Hosts of Type Ia Supernovae from ASAS-SN_, Holoien et al. [2023]().  
-(42.) __AMX__ _Near-infrared and Optical Nebular-phase Spectra of Type Ia Supernovae SN 2013aa and SN 2017cbv in NGC 5643_, Kumar et al. [2023]().  
-(41.) __AMX__ _Spatial metallicity distribution statistics at 100 pc scales in the AMUSING++ nearby galaxy sample_, Li et al. [2023]().  
+(48.) __AMX__ _Recovering Lost Light: Discovery of Supernova Remnants with Integral Field Spectroscopy_, Martínez-Rodríguez et al. [2024 ApJ 963:125](https://ui.adsabs.harvard.edu/abs/2024ApJ...963..125M/abstract).  
+(47.) __AMX__ _A Metallicity Dependence on the Occurrence of Core-collapse Supernovae_, Pessi et al. [2023 ApJ 955:L29](https://ui.adsabs.harvard.edu/abs/2023ApJ...955L..29P/abstract).  
+(46.) __AMX__ _Fast and not-so-furious: Case study of the fast and faint Type IIb SN 2021bxu_, Desai et al. [2023 MNRAS 524:767](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..767D/abstract).  
+(45.) __AMX__ _A characterization of ASAS-SN core-collapse supernova environments with VLT+MUSE I. Sample selection, analysis of local environments, and correlations with light curve properties_, Pessi et al. [2023 A&A 677:28](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..28P/abstract).  
+(44.) __AMX__ _Environmental dependence of Type IIn supernova properties_, Moriya et al. [2023 A&A 677:20](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..20M/abstract).  
+(43.) __AMX__ _Examining the Properties of Low-luminosity Hosts of Type Ia Supernovae from ASAS-SN_, Holoien et al. [2023 ApJ 950:108](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..108H/abstract).  
+(42.) __AMX__ _Near-infrared and Optical Nebular-phase Spectra of Type Ia Supernovae SN 2013aa and SN 2017cbv in NGC 5643_, Kumar et al. [2023 ApJ 945:27](https://ui.adsabs.harvard.edu/abs/2023ApJ...945...27K/abstract).  
+(41.) __AMX__ _Spatial metallicity distribution statistics at 100 pc scales in the AMUSING++ nearby galaxy sample_, Li et al. [2023 MNRAS 518:286](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..286L/abstract).  
 (40.) __AMX__ _A long life of excess: The interacting Transient SN 2017hcc_, Moran et al., [2023 A&A 669:51](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A..51M/abstract).  
 (39.) __AMX__ _Exploring Stellar and Ionized Gas Noncircular Motions in Barred Galaxies with MUSE_, López-Cobá et al. [2022 ApJ 939:40](https://ui.adsabs.harvard.edu/abs/2022ApJ...939...40L/abstract).  
 (38.) __AMX__ _Systematic errors on optical-SED stellar-mass estimates for galaxies across cosmic time and their impact on cosmology_, A. Paulino-Afonso et al., [2022 A&A., 662, 6](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract).  
