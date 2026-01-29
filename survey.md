@@ -82,7 +82,7 @@ Studying the host environments of sub-luminous Type Ia Supernovae using MUSE obs
 
 These include proposals not directly included in AMUSING but sent by members of the collaboration for other purpeses. These data is included in AMUSING+
 
-#### [P95 - 095.D-0172](docs/)			
+#### [P95 - 095.D-0172](docs/hanin_P95)			
 MUSE study of nearby core-collapse supernova host environments and parent stellar populations (PI: Kuncarayakti)  
 
 #### [P96 - 096.D-0263](docs/)		
