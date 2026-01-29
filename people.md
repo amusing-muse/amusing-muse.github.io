@@ -6,19 +6,21 @@ permalink: /people/
 
 ### Core members (alph.)
 
-* [__Joseph P. Anderson__](mailto:janderso@eso.org) (PI), _ESO Chile_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
-* [__Lluís Galbany__](mailto:lluisgalbany@gmail.com) (PI), _ICE-CSIC_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
+* [__Joseph P. Anderson__](mailto:janderso@eso.org) (PI), _ESO Chile_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106, P111, P112, P113, P114, P115, P116`
+* [__Lluís Galbany__](mailto:l.g@csic.es) (PI), _ICE-CSIC_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106, P111, P112, P113, P114, P115, P116`
 * [__Thomas Kruehler__](mailto:t.kruehler@gmail.com), _(left Astro)_ ; `P95, P96, P97, P98, P99, P100`
 * [__Hanin Kuncarayakti__](mailto:hanin@das.uchile.cl), _U. Turku_ ; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
 * [__Joseph Lyman__](mailto:J.D.Lyman@warwick.ac.uk), _U. Warwick_; `P96, P97, P98, P99, P100, P101, P102, P103, P104`
+* [__Thallis Pessi__](mailto:thallis.pessi@eso.org), _ESO Chile_; `P111, P112, P113, P114, P115, P116`
 * [__Sebastian Sanchez__](mailto:sfsanchez@astro.unam.mx), _UNAM_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
 
 ### Co-Is and semesters on which they have been co-Is (alph.)
 
+* [__Alaa Alburai__](mailto:alburai@ice.csic.es), _ICE-CSIC_; `P115, P116`
 * [__Chris Ashall__](mailto:c.ashall@2013.ljmu.ac.uk), _U. Hawai'i_; `P95`
 * [__Erik Aquino__](mailto:eaquino@astro.unam.mx), _U. Nacional Autonoma de Mexico_; `P95, P96, P97, P98, P100`
 * [__Melina Bersten__](mailto:mbersten@fcaglp.unlp.edu.ar), _U. La Plata_; `P100`
-* [__S. Bose__](mailto:), _---_; `P103`
+* [__Subhash Bose__](mailto:), _---_; `P103`
 * [__Chris Burns__](mailto:), _Carnegie Observatories_; `P102`
 * [__Javier Casado__](mailto:gurzmar@gmail.com), _---_
 * [__Carlos Lopez Coba__](mailto:carlos.lopezcoba@gmail.com), _U. Nacional Autonoma de Mexico_; `one galaxy, NGC 232`
@@ -29,7 +31,7 @@ permalink: /people/
 * [__Francisco Förster__](mailto:francisco.forster@gmail.com), _CMM, U. de Chile_; `P95, P96, P97. P98, P99, P100, P101, P102, P103, P104`
 * [__Ruben Garcia Benito__](mailto:rgb@iaa.es), _IAA_
 * [__Santiago González-Gaitán__](mailto:gongsale@gmail.com), _IST, U. Lisboa_; `P95, P96, P97, P98, P99, P100, P101, P102, P103, P104, P106`
-* [__Claudia Gutiérrez__](mailto:cgutierr@eso.org), _U. Turku_; `P97, P100, P104`
+* [__Claudia Gutiérrez__](mailto:cgutierr@eso.org), _ICE-CSIC_; `P97, P100, P104`
 * [__Mario Hamuy__](mailto:mhamuy@das.uchile.cl), _Calan, U. de Chile_; `P95, P96, P97`
 * [__Tom Holoien__](mailto:tholoien@gmail.com), _Ohio State University_; `P96, P103`
 * [__Eric Hsiao__](mailto:yichi.hsiao@gmail.com), _Aarhus University_; `P95, P97, P99, P102`
@@ -37,9 +39,8 @@ permalink: /people/
 * [__Tuomas Kangas__](mailto:tjakan@utu.fi), _U. Turku_; `P100, P101`
 * [__Erkki Kankare__](mailto:E.Kankare@qub.ac.uk), _QUB_; `P100, P101`
 * [__Christopher Kochanek__](mailto:kochanek.1@osu.edu), _Ohio State University_; `P96, P103`
-* [__J. Kotilainen__](mailto:jarkot@utu.fi), _U. Turku_; `P100, P101`
-* [__T. Kravtsov__](mailto:), _U. Turku_; `P101`
-* [__Thomas Kruehler__](mailto:t.kruehler@gmail.com), _MPE_ ; `P95, P96, P97, P98, P99, P100`
+* [__Jari Kotilainen__](mailto:jarkot@utu.fi), _U. Turku_; `P100, P101`
+* [__Timo Kravtsov__](mailto:), _U. Turku_; `P101`
 * [__Peter Lundqvist__](mailto:peter@astro.su.se), _Stockholm U._ ; `P100, P101`
 * [__Kei’ichi Maeda__](mailto:keiichi.maeda@kusastro.kyoto-u.ac.jp), _U. Kyoto_; `P100`
 * [__Seppo Mattila__](mailto:sepmat@utu.fi), _U. Turku_; `P100, P101`
