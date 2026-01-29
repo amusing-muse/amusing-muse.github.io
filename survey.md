@@ -78,19 +78,28 @@ Studying the host environments of sub-luminous Type Ia Supernovae using MUSE obs
 Studying the host environments of sub-luminous Type Ia Supernovae using MUSE observations (PI: Alburai)  
 
 
-## Other proposals
 
-These include proposals not directly included in AMUSING but sent by members of the collaboration for other purpeses. These data is included in AMUSING+
+## Other MUSE projects with related CoIs
+
+
+These include proposals not directly included in AMUSING but sent by members of the collaboration for other purpeses. These data is included in AMUSING+.
+List/info on other MUSE projects with similar science goals (need permission from PIs before posting here):
+
+### SV data: PI Galbany
+One galaxy NGC6754 observed which contains 4 SNe. Data already used in Sanchez et al. (2015). Data also shown in Anderson et al. (2015), SN environment review paper. Also there are 5 other galaxies observed in SV which had SNe. The whole sample has been analysed and the results published as a pilot study for AMUSING in Galbany et al. (2016)
+
+### DDT for CSP14acu: PI Anderson
+DDT proposal allocated 2hrs to a) obtain nebular spectroscopy of a very low-L host SNII, CSP14acu, and b) search for and characterise the host galaxy (which is probably very low Z): galaxy is ~-13Mr!!!
 
 #### [P95 - 095.D-0172](docs/hanin_P95)			
 MUSE study of nearby core-collapse supernova host environments and parent stellar populations (PI: Kuncarayakti)  
 
 #### [P96 - 096.D-0263](docs/)		
 A MUSE view of the host galaxies an encironments of peculiar Iax supernovae (PI: Lyman)  
+Band C time allocated in P96 to observe 17 SN Iax explosion sites. Main aims are to compare results of Iax explosion sites to their hosts and to the AMUSING Ia/CC samples. A few other SNe can be fit in the FOVs. For some nearby ones, the hosts are larger than FOV. Will update with details of what galaxies were actually observed during/after P96.
 
 #### [P114 - 114.27G5.001](docs/solar_P114.pdf)			
 ALMA + MUSE environment observations to reveal the nature of Type Ic supernova progenitors (PI: Solar)  
-
 
 
 
