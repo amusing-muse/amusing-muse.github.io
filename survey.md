@@ -53,28 +53,28 @@ The All-weather MUse Supernova Integral field Nearby Galaxies (AMUSING) survey X
 #### [P106 - 106.2104.001](docs/amusing_P106.pdf)			
 Type Ia supernovae in low-luminosity host environments (PI: Galbany)  
 
-#### [P111 - 111.24VQ.001](docs/amusing_P106.pdf)			
+#### [P111 - 111.24VQ.001](docs/amusing_P111a.pdf)			
 Environment constraints on supernovae Ibn: high or low mass progenitors? (PI: Kravstov)  
 
-#### [P111 - 111.24UM.001](docs/amusing_P106.pdf)			
+#### [P111 - 111.24UM.001](docs/amusing_P111b.pdf)			
 The local environments of stripped-envelope supernovae (PI: Pessi)  
 
-#### [P112 - 112.25XB.001](docs/amusing_P106.pdf)			
+#### [P112 - 112.25XB.001](docs/amusing_P112.pdf)			
 Investigating the Host Environments of 1987A-like Type II Supernovae arising from Blue Supergiants (PI: Singh)  
 
-#### [P113 - 113.26FT.001](docs/amusing_P106.pdf)			
+#### [P113 - 113.26FT.001](docs/amusing_P113.pdf)			
 An ATLAS view on the occurrence of core-collapse supernovae as a function of metallicity (PI: Pessi)  
 
-#### [P114 - 114.26ZM.001](docs/amusing_P106.pdf)			
+#### [P114 - 114.26ZM.001](docs/amusing_P114.pdf)			
 Constraining the fates of very massive stars: Environments of newly discovered peculiar core-collapse supernovae (PI: Galbany)  
 
-#### [P115 - 115.2841.001](docs/amusing_P106.pdf)			
+#### [P115 - 115.2841.001](docs/amusing_P15a.pdf)			
 An ATLAS view on the occurrence of core-collapse supernovae as a function of metallicity (PI: Pessi)  
 
-#### [P115 - 115.28DB.001](docs/amusing_P106.pdf)			
+#### [P115 - 115.28DB.001](docs/amusing_P15b.pdf)			
 Studying the host environments of sub-luminous Type Ia Supernovae using MUSE observations (PI: Alburai)  
 
-#### [P116 - 116.28SK.001](docs/amusing_P106.pdf)			
+#### [P116 - 116.28SK.001](docs/amusing_P116.pdf)			
 Studying the host environments of sub-luminous Type Ia Supernovae using MUSE observations (PI: Alburai)  
 
 
@@ -88,7 +88,7 @@ MUSE study of nearby core-collapse supernova host environments and parent stella
 #### [P96 - 096.D-0263](docs/)		
 A MUSE view of the host galaxies an encironments of peculiar Iax supernovae (PI: Lyman)  
 
-#### [P114 - 114.27G5.001](docs/)			
+#### [P114 - 114.27G5.001](docs/solar_P114.pdf)			
 ALMA + MUSE environment observations to reveal the nature of Type Ic supernova progenitors (PI: Solar)  
 
 
