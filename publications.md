@@ -6,20 +6,20 @@ permalink: /publications/
 
 (58.) __AMX__ _MUSE IFU observations of galaxies hosting tidal disruption events_ Pursiainen et al. [2026 MNRAS 545f2093P](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2093P).  
 (57.) __AMX__ _Assessing differences between local dust attenuation and point source extinction within the same galactic environments_, Duarte et al. [2025 A&A 700:A169](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.169D).  
-(56.) __AMX__ _Bidimensional Exploration of the warm-Temperature Ionised gaS (BETIS) II. Revisiting the ionisation mechanism of the extraplanar diffuse ionised gas_, González-Díaz et al [2024 A&A 691:A25](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A..25G).  
-(55.) __AMX__ _1991T-like Supernovae_, Phillips et al. [2024 ApJS 273:16](https://ui.adsabs.harvard.edu/abs/2024ApJS..273...16P).  
+(56.) __AM6__ _Bidimensional Exploration of the warm-Temperature Ionised gaS (BETIS) II. Revisiting the ionisation mechanism of the extraplanar diffuse ionised gas_, González-Díaz et al [2024 A&A 691:A25](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A..25G).  
+(55.) __AM31__ _1991T-like Supernovae_, Phillips et al. [2024 ApJS 273:16](https://ui.adsabs.harvard.edu/abs/2024ApJS..273...16P).  
 (54.) __AMX__ _Narrow absorption lines from intervening material in supernovae I. Measurements and temporal evolution_, González-Gaitán et al. [2024 A&A 687:A108](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G).  
-(53.) __AMX__ _Bidimensional Exploration of the warm-Temperature Ionised gaS (BETIS) I. Showcase sample and first results_, Gonzalez-Diaz et al. [2024 A&A 687:A20](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A..20G).  
+(53.) __AM6__ _Bidimensional Exploration of the warm-Temperature Ionised gaS (BETIS) I. Showcase sample and first results_, Gonzalez-Diaz et al. [2024 A&A 687:A20](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A..20G).  
 (52.) __AMX__ _The carbon-rich type Ic supernova 2016adj in the iconic dust lane of Centaurus A: Potential signatures of an interaction with circumstellar hydrogen_, Stritzinger et al. [2024 A&A 686:A79](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..79S).  
 (51.) __AMX__ _Supernova remnant properties and luminosity functions in NGC 7793 using MUSE IFS_, Kopsacheili, et al [2024 MNRAS 530:1078](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.1078K).  
 (50.) __AMX__ _Optical Spectroscopy of Type Ia Supernovae by the Carnegie Supernova Projects I and II_, Morrell et al. [2024 ApJ 967:20](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...20M).  
 (49.) __AMX__ _H II regions and diffuse ionized gas in the AMUSING++ Compilation - I. Catalogue presentation_, Lugo-Aranda et al. [2024 MNRAS 528:6099](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.6099L).  
-(48.) __AMX__ _Recovering Lost Light: Discovery of Supernova Remnants with Integral Field Spectroscopy_, Martínez-Rodríguez et al. [2024 ApJ 963:125](https://ui.adsabs.harvard.edu/abs/2024ApJ...963..125M).  
+(48.) __AM5__ _Recovering Lost Light: Discovery of Supernova Remnants with Integral Field Spectroscopy_, Martínez-Rodríguez et al. [2024 ApJ 963:125](https://ui.adsabs.harvard.edu/abs/2024ApJ...963..125M).  
 (47.) __AMX__ _A Metallicity Dependence on the Occurrence of Core-collapse Supernovae_, Pessi et al. [2023 ApJ 955:L29](https://ui.adsabs.harvard.edu/abs/2023ApJ...955L..29P).  
 (46.) __AMX__ _Fast and not-so-furious: Case study of the fast and faint Type IIb SN 2021bxu_, Desai et al. [2023 MNRAS 524:767](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..767D).  
 (45.) __AMX__ _A characterization of ASAS-SN core-collapse supernova environments with VLT+MUSE I. Sample selection, analysis of local environments, and correlations with light curve properties_, Pessi et al. [2023 A&A 677:A28](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..28P).  
-(44.) __AMX__ _Environmental dependence of Type IIn supernova properties_, Moriya et al. [2023 A&A 677:A20](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..20M).  
-(43.) __AMX__ _Examining the Properties of Low-luminosity Hosts of Type Ia Supernovae from ASAS-SN_, Holoien et al. [2023 ApJ 950:108](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..108H).  
+(44.) __AM42__ _Environmental dependence of Type IIn supernova properties_, Moriya et al. [2023 A&A 677:A20](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..20M).  
+(43.) __AM41__ _Examining the Properties of Low-luminosity Hosts of Type Ia Supernovae from ASAS-SN_, Holoien et al. [2023 ApJ 950:108](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..108H).  
 (42.) __AMX__ _Near-infrared and Optical Nebular-phase Spectra of Type Ia Supernovae SN 2013aa and SN 2017cbv in NGC 5643_, Kumar et al. [2023 ApJ 945:27](https://ui.adsabs.harvard.edu/abs/2023ApJ...945...27K).  
 (41.) __AMX__ _Spatial metallicity distribution statistics at 100 pc scales in the AMUSING++ nearby galaxy sample_, Li et al. [2023 MNRAS 518:286](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..286L).  
 (40.) __AMX__ _A long life of excess: The interacting Transient SN 2017hcc_, Moran et al., [2023 A&A 669:A51](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A..51M).  
@@ -29,7 +29,7 @@ permalink: /publications/
 (36.) __AMX__ _A Tale of Two Type Ia Supernovae: The Fast-declining Siblings SNe 2015bo and 1997cn_, W. Hoogendam et al., [2022 ApJ 928 103](https://ui.adsabs.harvard.edu/abs/2022ApJ...928..103H).  
 (35.) __AM24__ _HARMONI view of the host galaxies of active galactic nuclei around cosmic noon: Resolved stellar morpho-kinematics and the MBH-s* relation_, García-Lorenzo et al., [2022 A&A 659:A79](https://ui.adsabs.harvard.edu/abs/2021arXiv211210435G).  
 (34.) __AM21__ _A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).XII. Ionised gas emission in the inner regions of lenticular galaxies_, Boselli et al., [2022 A&A 659:A46](https://ui.adsabs.harvard.edu/abs/2021arXiv211106635B).  
-(33.) __AM21__ _An Amusing Look at the Host of the Periodic Nuclear Transient ASASSN-14ko Reveals a Second AGN_, Tucker et al., [2021 MNRAS 506:6014](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.6014T).  
+(33.) __AMX__ _An Amusing Look at the Host of the Periodic Nuclear Transient ASASSN-14ko Reveals a Second AGN_, Tucker et al., [2021 MNRAS 506:6014](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.6014T).  
 (32.) __AM40__ _ASASSN-15hy: an under-luminous, red 03fg-like type Ia supernova_, Lu et al., [2021 ApJ 920:107](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..107L).  
 (31.) __AM34__ _The delay time distribution of supernovae from integral-field spectroscopy of nearby galaxies_, Castrillo et al., [2021 MNRAS 501:3122](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3122C).  
 (30.) __AM21__ _A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).IX. The effects of ram pressure stripping down to the scale of individual HII regions in the dwarf galaxy IC 3476_, A. Boselli et al., [2021 A&A 646:A139](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B).  
@@ -42,12 +42,13 @@ permalink: /publications/
 (23.) __AM36__ _Studying the environment of AT 2018cow with MUSE_, Lyman et al., [2020 MNRAS 495:992](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..992L).  
 (22.) __AMX__ _Discovery and Rapid Follow-up Observations of the Unusual Type II SN 2018ivc in NGC 1068_, A. Bostroem et al., [2020 ApJ 895 31](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...31B).  
 (21.) __AMX__ _The AMUSING++ Nearby Galaxy Compilation. I. Full Sample Characterization and Galactic-scale Outflow Selection_, López-Cobá et al., [2020 AJ 159:167](https://ui.adsabs.harvard.edu/abs/2020AJ....159..167L).  
+
 (20.) __AM29__ _Nebular Spectra of 111 Type Ia Supernovae Disfavor Single Degenerate Progenitors_, Tucker et al., [2019 MNRAS 493:1044](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.1044T).  
-(19.) __AMX__ _Arm–interarm gas abundance variations explored with MUSE: the role of spiral structure in the chemical enrichment of galaxies_, Sánchez-Menguiano et al., [2020 MNRAS 492:4149](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4149S).  
+(19.) __AM8__ _Arm–interarm gas abundance variations explored with MUSE: the role of spiral structure in the chemical enrichment of galaxies_, Sánchez-Menguiano et al., [2020 MNRAS 492:4149](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4149S).  
 (18.) __HK4__ _The 50-100 pc scale parent stellar populations of Type II supernovae and limitations of single star evolution models_, Schady et al., [2019 MNRAS 490:4515](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4515S).  
 (17.) __AM16__ _The extraplanar type II supernova ASASSN-14jb in the nearby edge-on galaxy ESO 467-G051_, Meza et al., [2019 A&A 629:A57](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A..57M).  
 (16.) __SV5__ _Uncertainties in gas kinematics arising from stellar continuum modeling in integral field spectroscopy data: the case of NGC 2906 observed with VLT/MUSE_, Bellocchi et al., [2019 A&A 625:A839](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..83B).  
-(15.) __AMX__ _Carnegie Supernova Project-II: Extending the NIR Hubble Diagram for Type Ia Supernovae to z ∼ 0.1_, M. M Phillips et al., [2019; PASP 131 014001](https://ui.adsabs.harvard.edu/#abs/2019PASP..131a4001P).  
+(15.) __AM31__ _Carnegie Supernova Project-II: Extending the NIR Hubble Diagram for Type Ia Supernovae to z ∼ 0.1_, M. M Phillips et al., [2019; PASP 131 014001](https://ui.adsabs.harvard.edu/#abs/2019PASP..131a4001P).  
 (14.) __AM21__ _A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).IV. A tail of Ionised Gas in the Merger Remnant NGC 4424_, Boselli et al., [2018 A&A 620:A164](https://ui.adsabs.harvard.edu/#abs/2018A&A...620A.164B).  
 (13.) __HK3__ Relativistic supernova 2009bb exploded close to an atomic gas cloud, Michałowski et al. [2018 A&A 618:A104](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A.104M).  
 (12.) __AM28__ _Serendipitous discovery of a strong-lensed galaxy in integral field spectroscopy from MUSE_, Galbany et al., [2018 MNRAS 479:262](http://adsabs.harvard.edu/abs/2018MNRAS.479..262G).  

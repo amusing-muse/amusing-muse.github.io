@@ -39,7 +39,7 @@ __PI:__ E. Bellochi, Y. Ascasibar, L. Galbany
 __Abstract:__  
 __Title:__ SN rate statistics in nearby galaxies from IFS  
 __Data:__ SV NGC2906  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..83B/abstract)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..83B)
 
 ### Project HK1
 __Title:__ _Hot gas around SN 1998bw - the progenitor from its environment_  
@@ -138,7 +138,7 @@ __Data usage:__ All semesters
 __Status (10/09/17):__ Machinery is in place, now waiting for data...  
 __Status (21/01/19):__ Hector working now  
 __Status (20/12/20):__ Héctor left astronomy in Sep 2019. He has been working slowly but constantly, and first draft is almost ready. 
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024ApJ...963..125M/abstract)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024ApJ...963..125M)
 
 ### Project AM6
 __Title:__ _On the diffuse gas in spiral galaxies using MUSE IFS data_  
@@ -148,8 +148,8 @@ __Data usage:__ All semesters
 __Status (11/09/17):__ now has a PhD student who may work on this, trying to have a draft by mid-2018.  
 __Status (30/10/18):__ Data for all semesters has been sent to Fabián.  
 __Status (01/09/20):__ Raul González, PhD student at INAOE supervised by Fabián and Lluís, taking over.  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A..20G/abstract)  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A..25G/abstract)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A..20G)  
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A..25G)
 
 ### Project AM7
 __Title:__ _BaTMAn: A coherent segmentation map code_  
@@ -167,6 +167,7 @@ __PI:__ L. Sánchez-Menguiano
 __Abstract:__ Along the last 30 years it has grown evidence of the presence of an oxygen abundance gradient in spiral galaxies that has been interpreted as an evidence of inside-out growth. More recently it has been proposed the presence of a common abundance gradient and central decrement correlated with the mass of galaxies, by the use of IFU surveys. However, its characterization is hampered by the coarse resolution of those surveys (CALIFA, PINGS, MaNGA...), thus we would like to explore it by the analysis of the HII regions within the AMUSING dataset.  
 __Data usage:__ All semesters  
 __Status:__ [Published](http://adsabs.harvard.edu/abs/2018A%26A...609A.119S)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4149S)
 
 ### Project AM9
 __Title:__ _The global and local MZ relation explored with MUSE_  
@@ -231,7 +232,7 @@ __Title:__ _ASASSN-14jb (SN II) host and SN properties_
 __PI:__ N. Meza  
 __Abstract:__  
 __Data usage:__ P96  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A..57M/abstract)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A..57M)
 
 ### Project AM17 -> AM2
 __Title:__ _SweetSpot NIR SNIa LC/HR correlations with host galaxy properties_  
@@ -276,16 +277,16 @@ __Title:__ _The star formation history of the perturbed Virgo cluster galaxy NGC
 __PI:__  Matteo Fossati, Alessandro Boselli  
 __Abstract:__  NGC 4424 is a peculiar star forming galaxy located in the Virgo cluster. Deep narrow band Halpha images indicate the presence of a nuclear starburst, with extraplanar low surface brightness tails of ionised gas. The lack of star forming regions in the outer disc and the presence of prominent Balmer absorption lines indicate that here the star formation activity has been abruptly quenched. We propose to combine 2D spectroscopic data from MUSE with multifrequency data covering the whole electromagnetic spectrum to study the star formation history of this peculiar galaxy. The spectro-photometric data will be compared to tuned models of galaxy evolution in rich environments and will be fitted with SED fitting codes to reconstruct the star formation history of NGC 4424 with the purpose to identify the physical mechanism responsible for the quenching of its star formation activity.  
 __Data usage:__ All semesters  
-__Status:__ 1st paper [Published](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.164B/abstract)  
-__Status:__ 2nd paper [Published](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B/abstract)  
-__Status:__ 3rd paper [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv211106635B/abstract)  
+__Status:__ 1st paper [Published](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.164B)  
+__Status:__ 2nd paper [Published](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.139B)  
+__Status:__ 3rd paper [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv211106635B)  
 
 ### Project AM22
 __Title:__ _On the interaction between nuclear star formation and AGN in nearby galaxies_  
 __PI:__ René Ortega Minakata, Marcel Chow, Aitor Robleto, Josué Trejo   
 __Abstract:__ The main goal would be to contribute to the understanding of the interaction between AGN and nuclear star formation in the context of galaxy evolution. Particularly, the goal would be to separate spectrally and spatially the contribution of the AGN from the contribution of stars, particularly young stars, in the central / nuclear regions of nearby AGN-host galaxies. A secondary goal would be to test the methods to derive the gas-phase metallicity in AGN-dominated regions (e.g. Dors et al.) and compare them to standard strong-line methods for HII regions. The methods to achieve these goals would be to map the dynamics of the ionized gas and stars of the central regions of these galaxies; also, to map the gas diagnostics with great detail in these regions, in order to disentangle between regions dominated by the influence of the AGN and regions where young stellar populations ionize the gas. The main technique to be applied is spectral fitting using Starlight, but we intend to also use other fitting techniques, mainly to test for type-1 AGN in the central-most regions of these galaxies. The expected results include maps of dynamics, ionized-gas diagnostics, stellar populations and gas metallicity of the central regions of these galaxies. Based on previous studies in the literature, we expect to find co-existence of both young-stellar populations within or close-by an AGN-influenced region, and we expect to better understand where this AGN-influenced region ends. We expect to submit two or three papers in the course of three years from this project. The maximum amount of money that we could get is 1.5M pesos to be spent in a total of three years, which is about 70k USD at current exchange rates. It's not much but it's enough to hire one postdoc, pay for the publications and a few international conferences, buy a couple of laptops, and maybe bring one of you guys to Mexico for a week or so. We have access to enough CPU power to run spectral fitting with starlight of about five previously-reduced MUSE datacubes per semester at median capacity. We found a list of observed galaxies from AMUSING in google and found six AGN-hosts in that list, so we conclude our project is feasible in the three-year period with our current capacity. We have also made sure that the technical specifications of MUSE make its data capable of and useful to execute our project. The group proposing this project includes a professor (to be confirmed), a reasearch-oriented postdoc (me), a teaching-oriented postdoc, an almost PhD graduate that is already working as a professor outside of Mexico, and a soon-to-be PhD student whose thesis project is partially related to this project. We plan to hire another post-doc if we get the mexican money, to be fully dedicated to this project. All members of this group have experience analyzing CALIFA and SAMI data with the same methods and technique proposed here, and some are currently experimenting with MaNGA data. We have also developed our own suite of spectral fitting and analysis routines based on Starlight, dubbed The GIFU suite, so we consider we have enough experience to carry out this project successfully.  
 __Data usage:__ All semesters  
-__Status (20/12/20):__ [Published](https://ui.adsabs.harvard.edu/abs/2021ApJ...906L...6R/abstract)
+__Status (20/12/20):__ [Published](https://ui.adsabs.harvard.edu/abs/2021ApJ...906L...6R)
 
 ### Project AM23
 __Title:__ _SN nebular spectroscopy_  
@@ -302,7 +303,7 @@ __Title:__ _Simulating the host galaxies of quasars as seen by HARMONI_
 __PI:__ A. Monreal-Ibero  
 __Abstract:__ In the frame of the preparatory work for science with HARMONI, we are simulating different scientific cases to evaluate the performance of the instrument. For that, we make use of existing high-quality IFS data of nearby galaxies, that later on will be manipulated to mimic possible observations with HARMONI. MUSE data taken by the AMUSING project are ideal for this aim. Specifically, here we apply for the possibility of using the reduced cubes of the ellipticals (or early-type) galaxies to simulate the host galaxy of a quasar at different redshifts (up to z~2).  
 __Data usage:__ NGC809 (may request additional cubes in the future)  
-__Status (10/01/22):__  [Published](https://arxiv.org/abs/2112.10435)
+__Status (10/01/22):__  [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv211210435G)
 
 ### Project AM25
 __Title:__ _AGN feedback in AMUSING galaxies_  
@@ -341,14 +342,14 @@ __Status (30/01/26):__ CLOSED for now... but could be a future Master thesis pro
 __Title:__ _Serendipitous discovery of a lensed galaxy in IFS data_  
 __PI:__ L. Galbany, S. F. Sánchez, J. P. Anderson, J. Méndez-Abreu, M. Wood-Vasey, R. Mandelbaum  
 __Abstract:__ We present the discovery of a lensed galaxy observed with MUSE IFS. Besides the source, the lens seems to be in front of two clusters at different redshifts.  
-__Status:__ [Published](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/sty1448/5032805?redirectedFrom=fulltext)
+__Status:__ [Published](http://adsabs.harvard.edu/abs/2018MNRAS.479..262G)
 
 ### Project AM29
 __Title:__ nebular SNIa spectra in AMUSING  
 __PI:__ J. L. Prieto (w B. Shapee and Michael)  
 __Abstract:__ put constraints on H content and SN Ia progenitors  
 __Data:__ Mostly P99  
-__Status:__  [Published](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.1044T/abstract)  
+__Status:__  [Published](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.1044T)  
 
 ### Project AM30
 __Title:__ MUSE + HST galaxy lenses  
@@ -369,8 +370,8 @@ __Status (20/07/18):__ Defining sample.
 __Status (30/10/18):__ Analysis done.  
 __Status (21/01/19):__ Mark writing now? Check?  
 __Status (20/12/20):__ Mark still working on this.  
-__Status (30/01/26):__ [Published](https://ui.adsabs.harvard.edu/abs/2019PASP..131a4001P/abstract)  
-__Status (30/01/26):__ [Published](https://ui.adsabs.harvard.edu/abs/2024ApJS..273...16P/abstract)  
+__Status (30/01/26):__ [Published](https://ui.adsabs.harvard.edu/abs/2019PASP..131a4001P)  
+__Status (30/01/26):__ [Published](https://ui.adsabs.harvard.edu/abs/2024ApJS..273...16P)  
 
 ### Project AM32
 __Title:__ SNII environment vs SNII LC parameters  
@@ -395,7 +396,7 @@ __Title:__ SN rate statistics in nearby galaxies from IFS
 __PI:__ Asier, Yago Ascasibar, L. Galbany  
 __Abstract:__  
 __Data:__ ~50 hosts  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3122C/abstract) 
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3122C) 
 
 ### Project AM35
 __Title:__ SN2002fw SNIa at z=1.3 with ultra-deep field MUSE data.  
@@ -436,10 +437,11 @@ __Status (30/01/26):__ No news
 
 ### Project AM40
 __Title:__ _ASASSN-15hy and SCh SNIa_  
-__PI:__ L. Jing, E. Hsiao.  
+__PI:__ L. Jing, E. Hsiao.  L. Galbany
 __Abstract:__ ASASSN-15hy shares many of the hallmark characteristics of 03fg-like SNe Ia. It is relatively bright, lacks a clear i-band secondary maximum, and shows a strong and persistent CII feature and a low SiII 6355A velocity. However, some of its properties are also extreme compared to others in the 03fg-like group. ASASSN-15hy is under-luminous (MB = –19.14 ± 0.16 mag at B-band maximum), red (B −V = 0.18 ± 0.01 mag at B-band maximum), yet slowly declining (∆m15(B)= 0.73 ± 0.03 mag). It has the most delayed onset of the i-band primary maximum of any 03fg-like observed. ASASSN-15hy is extremely luminous in the NIR (MH ≤ —19.39 mag), and in contrast with normal SNe Ia, it also lacks the prominent H-band break emission feature at +10 d. The observational properties of ASASSN-15hy may be explained in the context of an explosion of a degenerate core inside a non-degenerate envelope. In such a configuration, the kinetic energy produced in the explosion runs into the non-degenerate envelope that provides additional luminosity and slow ejecta velocities. An initial deflagration burning phase is critical in producing the low 56Ni mass and luminosity, while the large core and envelope masses are essential in providing the large diffusion time scales required to produce the broad light curves. The model that best match the observations consists of a 1.47M degenerate core and a 0.8M non-degenerate envelope. This  “deflagration core-degenerate” scenario (DCD) may result from the secular merger between a white dwarf and the degenerate core of an AGB star.  
 __Data:__ ASASSN-15hy  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv210708150L/abstract)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2021arXiv210708150L)
+__Status (30/01/26):__ Lluís has a draft almost ready of a SCh sample.
 
 ### Project AM41
 __Title:__ _SNIa rates_  
@@ -447,7 +449,7 @@ __PI:__ T. Holoien.
 __Abstract:__ ASASSN SN Ia rates as a function of host galaxy properties. AMUSING contributing with 7 low-luminosity ASASSN hosts.  
 __Data:__ 7 cubes  
 __Status (16/08/21):__ Data sent  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..108H/abstract)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..108H)
 
 ### Project AM42
 __Title:__ _SNIIn properties connected to environments_  
@@ -455,7 +457,7 @@ __PI:__ T. Moriya, L. Galbany.
 __Abstract:__ Measuring explosion parameters from SNIIn light-curves and looking for correlations to their local environments in 23 AMUSING and PISCO galaxies.  
 __Data:__ 23 cubes  
 __Status (10/07/22):__ Visit to NAOJ to work on this  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..20M/abstract)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..20M)
 
 
 <!--
