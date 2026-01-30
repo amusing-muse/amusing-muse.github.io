@@ -24,30 +24,43 @@ __PI:__ L. Sánchez-Menguiano
 __Data usage:__ SV  
 __Status:__ [Published](http://adsabs.harvard.edu/abs/2016ApJ...830L..40S)
 
+### Project SV4
+__Title:__ _calibrating young SSP models with VLT/MUSE observation of NGC 3603_  
+__PI:__ H. Kuncarayakti 
+__Data usage:__ SV  
+__Status:__ [Published](http://adsabs.harvard.edu/abs/2016A%26A...593A..78K)
+
+### Project JL1
+__Title:__ _Investigating the diversity of supernovae type Iax_  
+__PI:__ J. Lyman 
+__Data usage:__ JL  
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.1359L)
+
 ### Project AM1
-__Title:__ _Data release of P95+P96+P97+P98_  
-__PI:__ J. Anderson  
-__Abstract:__ Release of data cubes (of our own reduction…), with characterisation of galaxy/SN properties. Overall properties of sample in terms of redshift, galaxy types, galaxy properties etc.  
-__Data usage:__ First 4 semesters  
+__Title:__ _Data release of all data_  
+__PI:__ L. Galbany  
+__Abstract:__ Release of data cubes, with characterisation of galaxy/SN properties. Overall properties of sample in terms of redshift, galaxy types, galaxy properties etc.  
+__Data usage:__ All semesters  
 __Status (12/12/16):__ Very little. Tomás has done characterisation in .csv table and can use that. Discussion on whether to write a messenger article?  
 __Status (05/04/17):__ Still little progress, but we really need to get something done here. JA to try to make higher priority.  
-__Status (05/09/17):__ Draft started. Aim to send draft to collaboration before end of 2017.  
+__Status (05/09/17):__ Draft started. 
 __Status (13/11/18):__ Data tables from Sebastián received, and plots ongoing. New goal is to have plots for January’s workshop in Pittsburgh.  
 __Status (21/01/19):__ Joe working on tables… Survey draft in 3-4 months?  
-__Status (13/08/19):__ Lluís working on the characterization and quality control.  
+__Status (13/08/19):__ Lluís takes over. Working on the characterization and quality control.  
 __Status (20/12/20):__ At the very end of the flux calibration. Writing.
+__Status (29/01/26):__ Except handful objects all is set. Need to find time to write.
 
 ### Project AM2
 __Title:__ _Environments w.r.t. SNIa properties_  
-__PI:__ J. Anderson -> L. Galbany  
+__PI:__ J. Anderson -> L. Galbany -> C. Jiménez  -> L. Galbany
 __Abstract:__ Environment analyses of well-observed SNeIa from CSP. Main aim will be to search for and characterise correlations between SN parameters (dm15, colour, velocities etc) and environment properties such as age, Z, extinction. Similar to many previous studies in this area, however will bring new insights by using ‘spaxel/HII region statistics’ as demonstrated in Galbany+16. Hubble residual analyses will be part of the same study  
 __Data usage:__ All semesters  
 __Status (12/12/16):__ None. If someone else wishes to take over then no problem!  
 __Status (05/04/17):__ Still none.  
-__Status (05/09/17):__  Lluís now taken over. He will add the AMUSING SNIa sample to those observed with PMAS and MaNGA. Aim to have draft around June 2018.  
+__Status (05/09/17):__ Lluís now taken over. He will add the AMUSING SNIa sample to those observed with PMAS and MaNGA.  
 __Status (13/11/18):__ PMAS paper should be finished before the AMUSING paper. AMUSING local analysis is done, but we need masks for the total values. Sebas will provide them. Also we need to test Alessandro’ fitting routines with photometry.  
 __Status (21/09/19):__ Project for 2020.  
-__Status (20/12/20):__ Most of the analysis done. Waiting to finish the data release to focus on this. Must be finished by Sep 2021.
+__Status (20/12/20):__ Most of the analysis done. Waiting to finish the data release to focus on this. 
 
 ### Project AM3
 __Title:__ _Exploring the SNe environments and related issues through their narrow absorption lines_  
@@ -57,6 +70,7 @@ __Data usage:__ All semesters, but specifically P97
 __Status (06/09/17):__ No updates.  
 __Status (21/01/19):__ Nothing still from Lingzhi. Discuss with Santiago on how to move forward.  
 __Status (20/12/20):__ Claudia taking over. Lots of interesting stuff going on.
+__Status (30/01/26):__ Santi and Claudia working on this
 
 ### Project AM4
 __Title:__ _Extinction laws towards supernova host galaxies with integral field spectroscopy_  
@@ -66,6 +80,8 @@ __Data usage:__ All semesters, especially those data with Av/Rv calculations fro
 __Status (06/09/17):__ Alessandro recently arrived at ESO to start his thesis project which will be working on this project. Significant progress expected in the coming months.  
 __Status:__ [List of relevant papers](https://docs.google.com/document/d/1EiYqwC3WqUtvgUGVtCOameF--Ml4ZcPzetwUXLTMGyA/edit)  
 __Status (01/06/20):__ Alessandro now in Granada making progress.
+__Status (04/12/25):__ Alessandro defended his PhD
+__Status (30/01/21):__ CLOSED.
 
 ### Project AM5
 __Title:__ _Search for long-lived SN Halpha emission_  
@@ -75,6 +91,7 @@ __Data usage:__ All semesters
 __Status (10/09/17):__ Machinery is in place, now waiting for data...  
 __Status (21/01/19):__ Hector working now  
 __Status (20/12/20):__ Héctor left astronomy in Sep 2019. He has been working slowly but constantly, and first draft is almost ready. 
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024ApJ...963..125M/abstract)
 
 ### Project AM6
 __Title:__ _On the diffuse gas in spiral galaxies using MUSE IFS data_  
@@ -84,6 +101,8 @@ __Data usage:__ All semesters
 __Status (11/09/17):__ now has a PhD student who may work on this, trying to have a draft by mid-2018.  
 __Status (30/10/18):__ Data for all semesters has been sent to Fabián.  
 __Status (01/09/20):__ Raul González, PhD student at INAOE supervised by Fabián and Lluís, taking over.
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A..20G/abstract)
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A..25G/abstract)
 
 ### Project AM7
 __Title:__ _BaTMAn: A coherent segmentation map code_  
@@ -93,6 +112,7 @@ __Data usage:__ All semesters
 __Status (12/12/16):__  
 __Status (21/01/19):__ Where is Javier? Yago?  
 __Status (20/12/20):__ LG: I think this is dead.
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM8
 __Title:__ _Oxygen abundance gradients + central decrement_  
@@ -106,16 +126,18 @@ __Title:__ _The global and local MZ relation explored with MUSE_
 __PI:__ L. Sánchez-Menguiano  
 __Abstract:__ We would like to explore the well known M-z relation proposed by Tremonti et al. (2004) using the extensive catalog of HII regions, extracted with unique resolution, in order to understand if part of the dispersion described in the literature is due to contamination due to diffuse gas, which is clearly addressed by the super-resolution of MUSE datasets. Evenmore, we propose to characterize the Sigma-z relation (or local M-z relation), proposed by Rosales-Ortega et al. 2012, and the possible secondary relation with the SFR.  
 __Data usage:__ All semesters  
-__Status (12/12/16):__  
+__Status (12/12/16):__ no progress
 __Status (20/12/20):__ ask Sebastian?
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM10
 __Title:__ _Azimutal variations of stellar properties_  
 __PI:__ T. Ruiz-Lara  
 __Abstract:__ We propose to explore the azimutal variations of the stellar properties in disk galaxies making use of the super-resolution provided by AMUSING in order to determine the effect of secular processes (bars, arms...) on the evolution of galaxies.  
 __Data usage:__ All semesters  
-__Status (12/12/16):__  
+__Status (12/12/16):__ no progress
 __Status (20/12/20):__ ask Sebastian?
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM11
 __Title:__ _Sulphur electron temperatures_  
@@ -132,6 +154,7 @@ __PI:__ F. Pinna, J. Falcon-Barroso, M. Martig, G. van de Ven, M. Lyubenova, R. 
 __Abstract:__ The stellar velocity ellipsoid (SVE) quantifies the amount of velocity dispersion in the vertical, radial and azimuthal directions. Since different disk heating mechanisms (e.g. spiral arms, giant molecular clouds, minor mergers, etc) affect these components differently, the SVE can constrain the sources of heating in disk galaxies. At present the 3D nature of the SVE can only be directly measured in the Milky Way but, thanks to integral-field surveys we are now in position to carry out the same kind of analysis in external galaxies. For this purpose, we will gather a sample of intermediate inclined spiral galaxies along the Hubble sequence (Sa to Sd types) with high quality stellar kinematic maps in the AMUSING survey. This will allow us to probe the SVE for each galaxy from different line-of-sights in different regions, and thus provide strong constraints on its shape. The ultimate goal is to relate our findings to realistic numerical simulations of disks with different formation histories (quiescent vs mergers), and we will also put the results of the Milky Way in context with the general population of spiral galaxies.  
 __Data usage:__ All semesters  
 __Status:__ (06/09/17) Data not deemed good enough for this project. ### Project put on hold for now.
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM13
 __Title:__ _Emission line associated with a AGN driven jet in NGC232_  
@@ -147,6 +170,7 @@ __Abstract:__ this is a two week project for the astroinformatics course. The id
 __Data usage:__ All semesters  
 __Status (06/09/17):__ Data was used in summer school, not clear if any further analysis?  
 __Status (20/11/20):__ Santiago ressurrected it with CRISP. 
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM15
 __Title:__ _MUSE Reveals a Recent Merger in the Post-starburst Host Galaxy of the TDE ASASSN-14li_  
@@ -180,7 +204,7 @@ __Abstract:__ We will study SweetSpot SN Ia NIR Hubble residual correlations wit
 __Data usage:__ P98 and P99  
 __Status (06/09/17):__ Building sample from other sources (PMAS, HexPaK, KOALA). Adding some southern targets for P101.  
 __Status (15/02/18):__ Kind of joined with Project AM2.  
-__Status (21/01/19):__ will not longer happen. Integrated with AM2.
+__Status (21/01/19):__ CLOSED. It will not longer happen. Integrated with AM2.
 
 ### Project AM18
 __Title:__ _SN Ia and CCSN delay time distribution (DTD) measurement_  
@@ -189,6 +213,7 @@ __Abstract:__ Once the SFH of all spectra are determined, one can apply the Maoz
 __Data usage:__ All semesters  
 __Status (06/09/17):__ Applying for funding to perform the study.  
 __Status (21/01/19):__ Carles + Lluis working on this. Needs to wait for photometry (waiting for Alessandro).
+__Status (30/01/26):__ Carles student, Cullen, taking over and combinig MUSE with HST data. Hopefully to be finished by the end of the year.
 
 ### Project AM19
 __Title:__ _young/old supernova remnants detection_  
@@ -199,6 +224,7 @@ __Status (06/09/17):__ Analysis ready, waiting for a student to work on this.
 __Status (20/02/18):__ Héctor Martinez taking over + Joe L. Join with JL paper above.  
 __Status (13/08/19):__ Héctor finished the analysis.  
 __Status (17/08/21):__ Draft almost finished. Héctor left astronomy...
+__Status (30/01/26):__ Maria Riera doing her Bachelor thesis on this. 
 
 ### Project AM20
 __Title:__ _The Origins of Galaxy Bimodality: Quenching Mechanisms over the last 8 Gyrs_  
@@ -207,6 +233,7 @@ __Abstract:__ This project is about understanding these quenching processes that
 __Data usage:__ All semesters  
 __Status (06/09/17):__ Jairo is looking for students this autumn. If no students he will start working on the data himself.  
 __Status (20/12/20):__ No news
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM21  
 __Title:__ _The star formation history of the perturbed Virgo cluster galaxy NGC 4424_  
@@ -222,7 +249,7 @@ __Title:__ _On the interaction between nuclear star formation and AGN in nearby 
 __PI:__ René Ortega Minakata, Marcel Chow, Aitor Robleto, Josué Trejo   
 __Abstract:__ The main goal would be to contribute to the understanding of the interaction between AGN and nuclear star formation in the context of galaxy evolution. Particularly, the goal would be to separate spectrally and spatially the contribution of the AGN from the contribution of stars, particularly young stars, in the central / nuclear regions of nearby AGN-host galaxies. A secondary goal would be to test the methods to derive the gas-phase metallicity in AGN-dominated regions (e.g. Dors et al.) and compare them to standard strong-line methods for HII regions. The methods to achieve these goals would be to map the dynamics of the ionized gas and stars of the central regions of these galaxies; also, to map the gas diagnostics with great detail in these regions, in order to disentangle between regions dominated by the influence of the AGN and regions where young stellar populations ionize the gas. The main technique to be applied is spectral fitting using Starlight, but we intend to also use other fitting techniques, mainly to test for type-1 AGN in the central-most regions of these galaxies. The expected results include maps of dynamics, ionized-gas diagnostics, stellar populations and gas metallicity of the central regions of these galaxies. Based on previous studies in the literature, we expect to find co-existence of both young-stellar populations within or close-by an AGN-influenced region, and we expect to better understand where this AGN-influenced region ends. We expect to submit two or three papers in the course of three years from this project. The maximum amount of money that we could get is 1.5M pesos to be spent in a total of three years, which is about 70k USD at current exchange rates. It's not much but it's enough to hire one postdoc, pay for the publications and a few international conferences, buy a couple of laptops, and maybe bring one of you guys to Mexico for a week or so. We have access to enough CPU power to run spectral fitting with starlight of about five previously-reduced MUSE datacubes per semester at median capacity. We found a list of observed galaxies from AMUSING in google and found six AGN-hosts in that list, so we conclude our project is feasible in the three-year period with our current capacity. We have also made sure that the technical specifications of MUSE make its data capable of and useful to execute our project. The group proposing this project includes a professor (to be confirmed), a reasearch-oriented postdoc (me), a teaching-oriented postdoc, an almost PhD graduate that is already working as a professor outside of Mexico, and a soon-to-be PhD student whose thesis project is partially related to this project. We plan to hire another post-doc if we get the mexican money, to be fully dedicated to this project. All members of this group have experience analyzing CALIFA and SAMI data with the same methods and technique proposed here, and some are currently experimenting with MaNGA data. We have also developed our own suite of spectral fitting and analysis routines based on Starlight, dubbed The GIFU suite, so we consider we have enough experience to carry out this project successfully.  
 __Data usage:__ All semesters  
-__Status (20/12/20):__ First paper [Published](https://arxiv.org/abs/2012.08094)
+__Status (20/12/20):__ [Published](https://ui.adsabs.harvard.edu/abs/2021ApJ...906L...6R/abstract)
 
 ### Project AM23
 __Title:__ _SN nebular spectroscopy_  
@@ -232,6 +259,7 @@ __Data usage:__ P100+
 __Status (06/09/17):__ Waiting for data.  
 __Status (21/01/19):__ Data obtained. Analysis ongoing?  
 __Status (20/12/20):__ No news
+__Status (30/01/26):__ No news. But the number of objects in the sample is increasing.
 
 ### Project AM24
 __Title:__ _Simulating the host galaxies of quasars as seen by HARMONI_  
@@ -249,6 +277,7 @@ __Status (10/09/17):__ A bachelor thesis was written on this subject. Therefore,
 __Status (30/10/18):__ Sara already has a draft.  
 __Status (21/01/19):__ working on draft.  
 __Status (20/12/20):__ I have seen the draft and it is done. All plots need to be repeated with the very final tables from Sebastián. Do not know where Sara is located and how much time has to invest on finishing this.
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM26
 __Title:__ _Wolf-Rayet population in NGC 3451_  
@@ -259,6 +288,7 @@ __Status (01/12/17):__ Data anlayzed. Plan to work 100% on this during my visit 
 __Status (21/01/19):__ work starting on this sometime 2019? Not anytime soon?  
 __Status (21/09/01):__ Carolina Kherig from IAA helping. Hopefully something ready for early 2020.  
 __Status (20/12/20):__ I made some progress on 2020, but this is put now on hold for lack of time. Actually I did the detection of Wolf-Rayet bumps in all AMUSING cubes. Finding time to write it.
+__Status (30/01/26):__ This evolved into a WR detection in all cubes. All maps ready. Finding time to do the selesction and write.
 
 ### Project AM27
 __Title:__ _Spatial resolution effects in Nearby Galaxies: An AMUSING-MaNGA synergy_  
@@ -268,7 +298,8 @@ __Data usage:__ SN2002ha (NGC6962 from P97)
 __Status (10/09/17):__ are waiting for MANGA data to become public to enable project to start.  
 __Status (21/01/19):__ ??? ask Sebastian?  
 __Status (20/12/20):__ No news
- 
+__Status (30/01/26):__ CLOSED for now... but could be a future Master thesis project: match AMUSING and MaNGA and for those few objects measure metalicity gradients, etc.
+
 ### Project AM28
 __Title:__ _Serendipitous discovery of a lensed galaxy in IFS data_  
 __PI:__ L. Galbany, S. F. Sánchez, J. P. Anderson, J. Méndez-Abreu, M. Wood-Vasey, R. Mandelbaum  
@@ -290,6 +321,7 @@ __Data:__ LSQ13cwp cube
 __Status (20/02/18):__  
 __Status (21/01/19):__ ask Thomas.  
 __Status (20/12/20):__ I would say this is not going to happen.
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM31
 __PI:__ Mark Phillips, N. Morrell, C. Contreras, L. Galbany  
@@ -300,15 +332,18 @@ __Status (20/07/18):__ Defining sample.
 __Status (30/10/18):__ Analysis done.  
 __Status (21/01/19):__ Mark writing now? Check?  
 __Status (20/12/20):__ Mark still working on this.
+__Status (30/01/26):__ [Published](https://ui.adsabs.harvard.edu/abs/2019PASP..131a4001P/abstract)  
+__Status (30/01/26):__ [Published](https://ui.adsabs.harvard.edu/abs/2024ApJS..273...16P/abstract)  
 
 ### Project AM32
-__PI:__ Isaac Lozano, Lluís Galbany  
+__PI:__ Isaac Lozano, Lluís Galbany -> Claudia
 __Title:__ SNII environment vs SNII LC parameters  
 __Data:__ 20 SNII hosts  
 __Status (12/11/18):__ Defining sample.  
 __Status (21/01/19):__ Masters student. Add 60 SNe/AMUSING hosts etc.  
 __Status (21/08/19):__ Isaac writing the master thesis. Defense is in September.  
 __Status (11/12/19):__ Defense done. Master thesis done. Not sure if this will end up in a paper. It needs a bit more work.
+__Status (30/01/26):__ Claudia will take over and add this to the low-L sample.
 
 ### Project AM33
 __PI:__ Claudia Gutiérrez  
@@ -334,6 +369,7 @@ __Title:__ SN2002fw SNIa at z=1.3 with ultra-deep field MUSE data.
 __Status:__ MOU signed with MUSE GTO people  
 __Status (11/12/19):__ They sent us a cutout of the cube. Not very useful.  
 __Status (20/12/20):__ Still waiting for the final cube.
+__Status (30/01/26):__ CLOSED.
 
 ### Project AM36
 __Title:__ _SN2018cow host_  
@@ -342,21 +378,24 @@ __Status:__ [Published](https://academic.oup.com/mnras/article-abstract/495/1/99
 
 ### Project AM37
 __Title:__ _SHOES host galaxy studies_  
-__PI:__ Mario, Lluís, Santi  
+__PI:__ Mario, Lluís, Santi -> Ramon Sanfeliu
 __Abstract:__ The goal is to get all 19 hosts, with AMUSING those in the South and with PISCO those in the North, and perform 3 different studies: local SFR at SNIa positions (LG), local metallicity at Cepheids positions (MH), local extinction at Cefeids positions (SGG).  
 __Status (11/12/19):__ 9 hosts available. Some are in PISCO for 20A, and some others in AMUSIG for P105.  
 __Status (20/12/20):__ Sara Muñoz, Master student, currently doing the analysis.
+__Status (30/01/26):__ Rmaon working on this data with Adam Riess and Louise Breuval
 
 ### Project AM38
 __Title:__ GRBs HII regions etc  
 __PI:__ Patricia Schady  
 __Status (20/12/20):__ No news
+__Status (30/01/26):__ No news
 
 ### Project AM39
 __Title:__ _Dust creation/destruction at SN sites_  
 __PI:__ C. Angus, C. Gall.  
 __Abstract:__ SNe are thought to destroy circumstellar and interstellar dust, either due to their intense radiation shortly after explosion or on longer timescales, due to forward (and reverse) shocks that sweep up any surrounding material. Dust grains may be fully destroyed (e.g., vaporised), or shattered into smaller grains if existing grains have been sufficiently large. In both cases, dust forming elements such as carbon, oxygen, calcium, iron or magnesium are returned to the gaseous phase. Therefore observable signatures of dust destruction close to the SN location may include changes in the local extinction (or extinction law) relative to the surrounding regions, as well as a local enhancement of dust forming elements at the SN location (or conversely a decrease in the case of dust creation). Here we will attempt to map these changes, and hence investigate the effect of dust destruction for different SNe and environments.   
 __Status (17/12/20):__ Start
+__Status (30/01/26):__ No news
 
 ### Project AM40
 __Title:__ _ASASSN-15hy and SCh SNIa_  
@@ -371,6 +410,7 @@ __PI:__ T. Holoien.
 __Abstract:__ ASASSN SN Ia rates as a function of host galaxy properties. AMUSING contributing with 7 low-luminosity ASASSN hosts.  
 __Data:__ 7 cubes  
 __Status (16/08/21):__ Data sent
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..108H/abstract)
 
 ### Project AM42
 __Title:__ _SNIIn properties connected to environments_  
@@ -378,6 +418,7 @@ __PI:__ T. Moriya, L. Galbany.
 __Abstract:__ Measuring explosion parameters from SNIIn light-curves and looking for correlations to their local environments in 23 AMUSING and PISCO galaxies.  
 __Data:__ 23 cubes  
 __Status (10/07/22):__ Visit to NAOJ to work on this
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..20M/abstract)
 
 
 <!--

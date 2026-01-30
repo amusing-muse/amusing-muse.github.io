@@ -59,6 +59,6 @@ permalink: /publications/
 (6.) __HK1__ _Hot gas around SN 1998bw: Inferring the progenitor from its environment_, Kruehler et al., [2017 A&A 602:A85](https://ui.adsabs.harvard.edu/abs/2017A%26A...602A..85K).  
 (5.) __SV3__ _Evidence of Ongoing Radial Migration in NGC 6754: Azimuthal Variations of the Gas Properties_, Sánchez-Menguiano et al., [2016 ApJ 830:40](http://ui.adsabs.harvard.edu/abs/2016ApJ...830L..40S).  
 (4.) __AM15__ _MUSE Reveals a Recent Merger in the Post-starburst Host Galaxy of the TDE ASASSN-14li_, Prieto et al, [2016 ApJ 830:32](http://ui.adsabs.harvard.edu/abs/2016ApJ...830L..32P).  
-(3.) __SVX__ _Unresolved versus resolved: calibrating young SSP models with VLT/MUSE observation of NGC 3603_, Kuncarayakti et al., [2016 A&A 593:A78](http://adsabs.harvard.edu/abs/2016A%26A...593A..78K).  
+(3.) __SV4__ _Unresolved versus resolved: calibrating young SSP models with VLT/MUSE observation of NGC 3603_, Kuncarayakti et al., [2016 A&A 593:A78](http://adsabs.harvard.edu/abs/2016A%26A...593A..78K).  
 (2.) __SV2__ _Characterizing the environments of supernovae with MUSE_, Galbany et al., [2016 MNRAS 455:4087](http://ui.adsabs.harvard.edu/abs/2016MNRAS.455.4087G).  
 (1.) __SV1__ _Census of H II regions in NGC 6754 derived with MUSE: Constraints on the metal mixing scale_, Sánchez et al, [2015 A&A 573:A105](https://ui.adsabs.harvard.edu/abs/2015A%26A...573A.105S).
