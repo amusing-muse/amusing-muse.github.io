@@ -4,37 +4,84 @@ title: Science projects
 permalink: /projects/
 ---
 
-Listed here are AMUSING projects. We list projects using SV data, AMUSING data, HK data, DDT data (the data source is reflected in the project ID). A project PI is listed, together with a title, an abstract and the status of the project. Projects should only be listed here once they have been approved by the AMUSING collaboration PIs (Anderson and Galbany).
+Listed here are AMUSING projects. We list projects using SV data, DDT data, AMUSING data, and data obtaiend by other AMUSING co-Is (the data source is reflected in the project ID). A project PI is listed, together with a title, an abstract and the status of the project. Projects should only be listed here once they have been approved by the AMUSING collaboration PIs (Anderson and Galbany).
 
 ### Project SV1
 __Title:__ _Census of H II regions in NGC 6754 derived with MUSE: Constraints on the metal mixing scale_  
 __PI:__ S. Sánchez  
-__Data usage:__ SV  
+__Abstract:__  
+__Data usage:__ SV NGC6754  
 __Status:__ [Published](http://adsabs.harvard.edu/abs/2015A%26A...573A.105S)
 
 ### Project SV2
 __Title:__ _Characterizing the environments of supernovae with MUSE_  
 __PI:__ L. Galbany  
+__Abstract:__  
 __Data usage:__ SV  
 __Status:__ [Published](http://adsabs.harvard.edu/abs/2016MNRAS.455.4087G)  
 
 ### Project SV3
 __Title:__ _Evidence of Ongoing Radial Migration in NGC 6754: Azimuthal Variations of the Gas Properties_  
 __PI:__ L. Sánchez-Menguiano  
-__Data usage:__ SV  
+__Abstract:__  
+__Data usage:__ SV NGC6754  
 __Status:__ [Published](http://adsabs.harvard.edu/abs/2016ApJ...830L..40S)
 
 ### Project SV4
 __Title:__ _calibrating young SSP models with VLT/MUSE observation of NGC 3603_  
 __PI:__ H. Kuncarayakti  
-__Data usage:__ SV  
+__Abstract:__  
+__Data usage:__ SV NGC3603  
 __Status:__ [Published](http://adsabs.harvard.edu/abs/2016A%26A...593A..78K)
+
+### Project SV5
+__PI:__ E. Bellochi, Y. Ascasibar, L. Galbany  
+__Abstract:__  
+__Title:__ SN rate statistics in nearby galaxies from IFS  
+__Data:__ SV NGC2906  
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..83B/abstract)
+
+### Project HK1
+__Title:__ _Hot gas around SN 1998bw - the progenitor from its environment_  
+__PI:__ T. Kruehler  
+__Abstract:__  
+__Data usage:__ HK SN1998bw  
+__Status:__ [Published](http://adsabs.harvard.edu/abs/2017A%26A...602A..85K)
+
+### Project HK2
+__Title:__ _Constraints on core-collapse supernova progenitors from explosion site_  
+__PI:__ H. Kuncarayakti    
+__Abstract:__  
+__Data usage:__ HK  
+__Status:__ [Published](http://adsabs.harvard.edu/abs/2018A%26A...613A..35K)
+
+### Project HK3
+__Title:__ _Relativistic supernova 2009bb exploded close to an atomic gas cloud_  
+__PI:__ M. Michałowski     
+__Abstract:__  
+__Data usage:__ HK SN2009bb  
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A.104M)
+
+### Project HK4
+__Title:__ _The 50-100 pc scale parent stellar populations of Type II supernovae_  
+__PI:__ P. Schady    
+__Abstract:__  
+__Data usage:__ HK  
+__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4515S)
 
 ### Project JL1
 __Title:__ _Investigating the diversity of supernovae type Iax_  
-__PI:__ J. Lyman 
+__PI:__ J. Lyman  
+__Abstract:__  
 __Data usage:__ JL  
 __Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.1359L)
+
+### Project DDT1
+__Title:__ _The lowest metallicity type II supernova from a high mass red-supergiant progenitor_  
+__PI:__ J. Anderson  
+__Abstract:__ Red supergiant (RSG) stars have been confirmed as the progenitor stars of the majority of hydrogen-rich type II supernovae (SNe II). However, while RSGs are observed with masses >25 M⊙, detections of SN II progenitors with masses >18 M⊙ (To be defined) have remained elusive. RSGs are also expected to form and explode at all metallicities, but given the his-torical galaxy-targeted nature of past SN surveys, in addition to the low amount of total star-formation within low-luminosity galaxies (leading to a low SN rate), discoveries of explosions from such low-metallicity progenitors are also scarce. Here, we report observations of the SN II CSS140925:223344-062208, aka SN 2015bs, for which we infer a progenitor metallicity of Z0.1 Z⊙ and a Zero Age Main-Sequence (ZAMS) mass of 17-18 M⊙. SN 2015bs displays a relatively normal light-curve morphology, together with the typical Balmer lines usually observed in photospheric-phase spectra of SNe II, implying a RSG progenitor. However, there is a clear lack of strong spectral lines originating from heavier elements such as iron. Comparison to spectral models confirm a progenitor metallicity of 0.1 Z⊙ or lower. This is consistent with observations of the host galaxy that constrain its absolute magnitude to be the lowest of any SN II host to-date, implying significantly sub-solar metallicity. At 2late phases SN 2015bs also shows unique features among SNe II. [OI] 6300,6364 °A is much stronger with respect to H  and [Ca II] 7291,7323 °A than for all other known SNe II. Nebular hydrogen emission is also broader implying higher velocities for the outer core material4. SN 2015bs is thus constrained to have a helium core mass produced by the explosion of an 17-18 M⊙ (To be defined) initial mass progenitor (Actually, putting a value here is necessary? Probably, but note Jesper’s ’strong logic’ point.). Why such a massive progenitor should also be related to such a low progenitor metallicity is currently unknown.  
+__Data usage:__ DDT96  
+__Status:__ [Published](http://adsabs.harvard.edu/abs/2018NatAs...2..574A)
 
 ### Project AM1
 __Title:__ _Data release of all data_  
@@ -175,27 +222,16 @@ __Status (30/01/26):__ CLOSED.
 ### Project AM15
 __Title:__ _MUSE Reveals a Recent Merger in the Post-starburst Host Galaxy of the TDE ASASSN-14li_  
 __PI:__ J. L. Prieto  
+__Abstract:__  
 __Data usage:__ P96  
 __Status:__ [Published](http://adsabs.harvard.edu/abs/2016ApJ...830L..32P)
 
 ### Project AM16
 __Title:__ _ASASSN-14jb (SN II) host and SN properties_  
 __PI:__ N. Meza  
+__Abstract:__  
 __Data usage:__ P96  
 __Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A..57M/abstract)
-
-### Project DDT1
-__Title:__ _The lowest metallicity type II supernova from a high mass red-supergiant progenitor_  
-__PI:__ J. Anderson  
-__Abstract:__ Red supergiant (RSG) stars have been confirmed as the progenitor stars of the majority of hydrogen-rich type II supernovae (SNe II). However, while RSGs are observed with masses >25 M⊙, detections of SN II progenitors with masses >18 M⊙ (To be defined) have remained elusive. RSGs are also expected to form and explode at all metallicities, but given the his-torical galaxy-targeted nature of past SN surveys, in addition to the low amount of total star-formation within low-luminosity galaxies (leading to a low SN rate), discoveries of explosions from such low-metallicity progenitors are also scarce. Here, we report observations of the SN II CSS140925:223344-062208, aka SN 2015bs, for which we infer a progenitor metallicity of Z0.1 Z⊙ and a Zero Age Main-Sequence (ZAMS) mass of 17-18 M⊙. SN 2015bs displays a relatively normal light-curve morphology, together with the typical Balmer lines usually observed in photospheric-phase spectra of SNe II, implying a RSG progenitor. However, there is a clear lack of strong spectral lines originating from heavier elements such as iron. Comparison to spectral models confirm a progenitor metallicity of 0.1 Z⊙ or lower. This is consistent with observations of the host galaxy that constrain its absolute magnitude to be the lowest of any SN II host to-date, implying significantly sub-solar metallicity. At 2late phases SN 2015bs also shows unique features among SNe II. [OI] 6300,6364 °A is much stronger with respect to H  and [Ca II] 7291,7323 °A than for all other known SNe II. Nebular hydrogen emission is also broader implying higher velocities for the outer core material4. SN 2015bs is thus constrained to have a helium core mass produced by the explosion of an 17-18 M⊙ (To be defined) initial mass progenitor (Actually, putting a value here is necessary? Probably, but note Jesper’s ’strong logic’ point.). Why such a massive progenitor should also be related to such a low progenitor metallicity is currently unknown.  
-__Data usage:__ DDT96  
-__Status:__ [Published](http://adsabs.harvard.edu/abs/2018NatAs...2..574A)
-
-### Project HK1
-__Title:__ _Hot gas around SN~1998bw - the progenitor from its environment_  
-__PI:__ T. Kruehler  
-__Data usage:__ HK  
-__Status:__ [Published](http://adsabs.harvard.edu/abs/2017A%26A...602A..85K)
 
 ### Project AM17 -> AM2
 __Title:__ _SweetSpot NIR SNIa LC/HR correlations with host galaxy properties_  
@@ -282,6 +318,7 @@ __Status (30/01/26):__ CLOSED.
 ### Project AM26
 __Title:__ _Wolf-Rayet population in NGC 3451_  
 __PI:__ L. Galbany, A. R. López-Sánchez, Carolina Kherig  
+__Abstract:__  
 __Data usage:__ SN1997dn host (from HK P95)  
 __Status (06/09/17):__ SDSS, PMAS, and MUSE data ready. No significant advances.  
 __Status (01/12/17):__ Data anlayzed. Plan to work 100% on this during my visit to Angel in May.  
@@ -307,15 +344,15 @@ __Abstract:__ We present the discovery of a lensed galaxy observed with MUSE IFS
 __Status:__ [Published](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/sty1448/5032805?redirectedFrom=fulltext)
 
 ### Project AM29
-__PI:__ J. L. Prieto (w B. Shapee and Michael)  
 __Title:__ nebular SNIa spectra in AMUSING  
+__PI:__ J. L. Prieto (w B. Shapee and Michael)  
 __Abstract:__ put constraints on H content and SN Ia progenitors  
 __Data:__ Mostly P99  
 __Status:__  [Published](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.1044T/abstract)  
 
 ### Project AM30
-__PI:__ T. Collett  
 __Title:__ MUSE + HST galaxy lenses  
+__PI:__ T. Collett  
 __Abstract:__ we have a sample of 3 low redshift MUSE lenses with HST imaging. We're working on mass to light ratios, dark matter profiles, IMF etc. This lens would make an excellent addition to the sample and we'd like to put in a mid-cycle HST proposal for it.  
 __Data:__ LSQ13cwp cube  
 __Status (20/02/18):__  
@@ -324,8 +361,8 @@ __Status (20/12/20):__ I would say this is not going to happen.
 __Status (30/01/26):__ CLOSED.
 
 ### Project AM31
-__PI:__ Mark Phillips, N. Morrell, C. Contreras, L. Galbany  
 __Title:__ SNIa in low luminosity galaxies  
+__PI:__ Mark Phillips, N. Morrell, C. Contreras, L. Galbany  
 __Abstract:__ low luminosity star-forming galaxies of CSP-II SNe Ia, which preferentially host luminous slow-declining (91T-like)  
 __Data:__ iPTF14fpg, CSP13aaq, CSP14aar, CSP14aar, CSP12N, LSQ14ie, LSQ14bjj, LSQ15aja  
 __Status (20/07/18):__ Defining sample.  
@@ -336,8 +373,9 @@ __Status (30/01/26):__ [Published](https://ui.adsabs.harvard.edu/abs/2019PASP..1
 __Status (30/01/26):__ [Published](https://ui.adsabs.harvard.edu/abs/2024ApJS..273...16P/abstract)  
 
 ### Project AM32
-__PI:__ Isaac Lozano, Lluís Galbany -> Claudia
 __Title:__ SNII environment vs SNII LC parameters  
+__PI:__ Isaac Lozano, Lluís Galbany -> Claudia
+__Abstract:__  
 __Data:__ 20 SNII hosts  
 __Status (12/11/18):__ Defining sample.  
 __Status (21/01/19):__ Masters student. Add 60 SNe/AMUSING hosts etc.  
@@ -346,26 +384,23 @@ __Status (11/12/19):__ Defense done. Master thesis done. Not sure if this will e
 __Status (30/01/26):__ Claudia will take over and add this to the low-L sample.
 
 ### Project AM33
-__PI:__ Claudia Gutiérrez  
 __Title:__ SN2017ivv  
+__PI:__ Claudia Gutiérrez  
+__Abstract:__  
 __Data:__ 1 host  
 __Status:__ [Published](https://academic.oup.com/mnras/article-abstract/499/1/974/5910509?redirectedFrom=fulltext)
 
 ### Project AM34
-__PI:__ Asier, Yago Ascasibar, L. Galbany  
 __Title:__ SN rate statistics in nearby galaxies from IFS  
+__PI:__ Asier, Yago Ascasibar, L. Galbany  
+__Abstract:__  
 __Data:__ ~50 hosts  
 __Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3122C/abstract) 
 
-### Project SV4
-__PI:__ E. Bellochi, Y. Ascasibar, L. Galbany  
-__Title:__ SN rate statistics in nearby galaxies from IFS  
-__Data:__ NGC2906  
-__Status:__ [Published](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..83B/abstract)
-
 ### Project AM35
-__PI:__ Lluís Galbany, Joe Anderson  
 __Title:__ SN2002fw SNIa at z=1.3 with ultra-deep field MUSE data.  
+__PI:__ Lluís Galbany, Joe Anderson  
+__Abstract:__  
 __Status:__ MOU signed with MUSE GTO people  
 __Status (11/12/19):__ They sent us a cutout of the cube. Not very useful.  
 __Status (20/12/20):__ Still waiting for the final cube.  
@@ -374,6 +409,7 @@ __Status (30/01/26):__ CLOSED.
 ### Project AM36
 __Title:__ _SN2018cow host_  
 __PI:__ Joe Lyman  
+__Abstract:__  
 __Status:__ [Published](https://academic.oup.com/mnras/article-abstract/495/1/992/5831086?redirectedFrom=fulltext) 
 
 ### Project AM37
@@ -387,6 +423,7 @@ __Status (30/01/26):__ Rmaon working on this data with Adam Riess and Louise Bre
 ### Project AM38
 __Title:__ GRBs HII regions etc  
 __PI:__ Patricia Schady  
+__Abstract:__  
 __Status (20/12/20):__ No news  
 __Status (30/01/26):__ No news
 
